@@ -4,15 +4,24 @@
     "subsections": [
       {
         "subheading": "Contact Information",
-        "content": ["How Do I?"]
+        "content": [
+          "How Do I?"
+        ]
       }
     ],
-    "content": ["Open All Topics | Close All Topics"],
+    "content": [
+      "Open All Topics | Close All Topics"
+    ],
     "contact_info": "Contact Monica Mungle  for help if edits are needed to the top section.",
     "submission_link": "",
+    "study_types": [
+      {
+        "type": "Determine My Study Type\n    \n        Randomized Clinical Trial\n        Parallel-Design Double-blind Trial\n        Crossover Trial\n        Equivalence and Noninferiority Trial\n        Cluster Trial\n        Nonrandomized Clinical Trial\n        Meta-analysis\n        Cohort Study\n        Case-Control Study\n        Cross-sectional Study\n        Case Series\n        Economic Evaluation\n        Decision Analytical Model\n        Comparative Effectiveness Research\n        Genetic Association Study\n        Diagnostic/Prognostic Study\n        Quality Improvement Study\n        Survey Study\n        Qualitative Study",
+        "description": ""
+      }
+    ],
     "list_items": [
       "How Do I?",
-      "Determine My Study Type\n    \n        Randomized Clinical Trial\n        Parallel-Design Double-blind Trial\n        Crossover Trial\n        Equivalence and Noninferiority Trial\n        Cluster Trial\n        Nonrandomized Clinical Trial\n        Meta-analysis\n        Cohort Study\n        Case-Control Study\n        Cross-sectional Study\n        Case Series\n        Economic Evaluation\n        Decision Analytical Model\n        Comparative Effectiveness Research\n        Genetic Association Study\n        Diagnostic/Prognostic Study\n        Quality Improvement Study\n        Survey Study\n        Qualitative Study",
       "Format My Manuscript\n    \n        Manuscript Preparation and Submission Requirements\n        \n            Manuscript Submission\n            Copies of Previous Editorial and Reviewer Comments\n            Cover Letter\n            Manuscript Style\n            Manuscript Components\n            Recommended File Sizes\n            Manuscript File Formats\n            Title Page\n            Title\n            Key Points\n            Abstracts\n            Abbreviations\n            Units of Measure\n            Names of Drugs, Devices, and Other Products\n            Gene Names, Symbols, and Accession Numbers\n            Reproduced and Re-created Material\n            References\n        \n        \n        Tables\n        Figures\n        Online-Only Supplements and Multimedia",
       "What to Expect",
       "After Submission\n    \n        Editorial and Peer Review\n        \n        \n        Appeals\n        \n        Open Access",
@@ -137,7 +146,9 @@
     "subsections": [
       {
         "subheading": "Categories of Articles",
-        "content": ["Categories of Articles"]
+        "content": [
+          "Categories of Articles"
+        ]
       },
       {
         "subheading": "Research",
@@ -149,30 +160,6 @@
           "It is very rare for this journal to publish case reports.",
           "Research Letter\nfull info",
           "Back to top"
-        ],
-        "list_items": [
-          "3000 words",
-          "≤5 tables and/or figures",
-          "Structured abstract",
-          "Key Points",
-          "Data Sharing Statement",
-          "Study Type",
-          "Follow EQUATOR Reporting Guidelines",
-          "1200 words",
-          "15 references",
-          "≤3 tables and/or figures",
-          "Structured abstract",
-          "Key Points",
-          "Study Type",
-          "Data Sharing Statement",
-          "Follow EQUATOR Reporting Guidelines",
-          "600 words",
-          "≤6 references",
-          "≤2 small tables and/or figures",
-          "Study Type",
-          "No Abstract or Key Points",
-          "Data Sharing Statement",
-          "Follow EQUATOR Reporting Guidelines"
         ]
       },
       {
@@ -197,54 +184,6 @@
           "Cardiovascular Images\nfull info",
           "Novel and clinically relevant images of unusual or striking examples of clinical entities, electrocardiographic/radiological studies, or therapeutic procedures with brief explanatory text.",
           "Back to top"
-        ],
-        "list_items": [
-          "3000 words",
-          "50-75 references",
-          "≤5 tables and/or figures",
-          "A PRISMA-style flow diagram should be included as an online supplement",
-          "Include a table with ratings of the quality of the studies/evidence",
-          "Subtitle should be \"A Systematic Review\"",
-          "Structured abstract",
-          "Key Points",
-          "Follow EQUATOR Reporting Guidelines",
-          "2000-3500 words",
-          "50-75 references",
-          "≤5 tables and/or figures",
-          "3-part structured abstract",
-          "No Key Points",
-          "Subtitle should be \"A Review\"",
-          "3000 words",
-          "50 references",
-          "≤4 tables and/or figures",
-          "Structured abstract",
-          "\"What Would You Do Next?\" with 4 single-phrase plausible treatment options describing possible courses of action with 1 being preferred",
-          "Case presentation: 250 words",
-          "Discussion: 500-600 words",
-          "≤10 references",
-          "≤3 authors",
-          "1-2 small figures",
-          "Patient permission required",
-          "How Do You Interpret These Test Results? (or What Would You Do Next?) with 4 plausible responses",
-          "Case presentation: 200 words",
-          "Discussion: 650 words",
-          "1 table",
-          "≤10 references",
-          "≤3 authors",
-          "Patient permission required",
-          "800 words",
-          "Begins with 1-sentence clinical question and 1-sentence clinical application statement",
-          "1 Evidence Profile box",
-          "1 table or figure",
-          "≤7 references",
-          "≤4 authors",
-          "Requires a presubmission inquiry",
-          "150 words",
-          "1 figure (no more than 2 components)",
-          "No online-only material",
-          "≤6 references",
-          "≤3 authors",
-          "Patient permission may be needed"
         ]
       },
       {
@@ -252,11 +191,6 @@
         "content": [
           "Viewpoint\nfull info",
           "May address virtually any important topic in medicine, public health, research, discovery, prevention, ethics, health policy, or health law and generally are not linked to a specific article."
-        ],
-        "list_items": [
-          "1200 words (or 1000 words with 1 small table or figure)",
-          "≤7 references at submission",
-          "≤4 authors, with no more than 2 affiliations per author"
         ]
       },
       {
@@ -265,11 +199,6 @@
           "From the Heart\nfull info",
           "Personal vignettes (eg, exploring the dynamics of the patient-physician relationship) taken from wide-ranging experiences in medicine; occasional pieces express views and opinions on the myriad issues that affect the profession.",
           "Back to top"
-        ],
-        "list_items": [
-          "≤1600 words",
-          "≤3 authors",
-          "Patient permission may be needed"
         ]
       },
       {
@@ -278,35 +207,121 @@
           "Letter to the Editor\nfull info",
           "Letter in Reply\nfull info",
           "Replies by authors of original articles to letters from readers."
-        ],
-        "list_items": [
-          "400 words",
-          "≤5 references (1 of which should be to the recent article)",
-          "≤3 authors",
-          "500 words",
-          "≤6 references",
-          "≤3 authors"
         ]
       },
       {
         "subheading": "Study Types",
-        "content": ["How Do I?"]
+        "content": [
+          "How Do I?"
+        ]
       }
     ],
     "submission_link": "",
     "study_types": [
       {
+        "type": "Study Type",
+        "description": ""
+      },
+      {
+        "type": "Study Type",
+        "description": ""
+      },
+      {
         "type": "Concise, focused reports of original research. Can include any of the study types listed under Original Investigation.",
+        "description": ""
+      },
+      {
+        "type": "Study Type",
         "description": ""
       },
       {
         "type": "Study Types",
         "description": ""
       }
+    ],
+    "list_items": [
+      "3000 words",
+      "≤5 tables and/or figures",
+      "Structured abstract",
+      "Key Points",
+      "Data Sharing Statement",
+      "Follow EQUATOR Reporting Guidelines",
+      "1200 words",
+      "15 references",
+      "≤3 tables and/or figures",
+      "Structured abstract",
+      "Key Points",
+      "Data Sharing Statement",
+      "Follow EQUATOR Reporting Guidelines",
+      "600 words",
+      "≤6 references",
+      "≤2 small tables and/or figures",
+      "No Abstract or Key Points",
+      "Data Sharing Statement",
+      "Follow EQUATOR Reporting Guidelines",
+      "3000 words",
+      "50-75 references",
+      "≤5 tables and/or figures",
+      "A PRISMA-style flow diagram should be included as an online supplement",
+      "Include a table with ratings of the quality of the studies/evidence",
+      "Subtitle should be \"A Systematic Review\"",
+      "Structured abstract",
+      "Key Points",
+      "Follow EQUATOR Reporting Guidelines",
+      "2000-3500 words",
+      "50-75 references",
+      "≤5 tables and/or figures",
+      "3-part structured abstract",
+      "No Key Points",
+      "Subtitle should be \"A Review\"",
+      "3000 words",
+      "50 references",
+      "≤4 tables and/or figures",
+      "Structured abstract",
+      "\"What Would You Do Next?\" with 4 single-phrase plausible treatment options describing possible courses of action with 1 being preferred",
+      "Case presentation: 250 words",
+      "Discussion: 500-600 words",
+      "≤10 references",
+      "≤3 authors",
+      "1-2 small figures",
+      "Patient permission required",
+      "How Do You Interpret These Test Results? (or What Would You Do Next?) with 4 plausible responses",
+      "Case presentation: 200 words",
+      "Discussion: 650 words",
+      "1 table",
+      "≤10 references",
+      "≤3 authors",
+      "Patient permission required",
+      "800 words",
+      "Begins with 1-sentence clinical question and 1-sentence clinical application statement",
+      "1 Evidence Profile box",
+      "1 table or figure",
+      "≤7 references",
+      "≤4 authors",
+      "Requires a presubmission inquiry",
+      "150 words",
+      "1 figure (no more than 2 components)",
+      "No online-only material",
+      "≤6 references",
+      "≤3 authors",
+      "Patient permission may be needed",
+      "1200 words (or 1000 words with 1 small table or figure)",
+      "≤7 references at submission",
+      "≤4 authors, with no more than 2 affiliations per author",
+      "≤1600 words",
+      "≤3 authors",
+      "Patient permission may be needed",
+      "400 words",
+      "≤5 references (1 of which should be to the recent article)",
+      "≤3 authors",
+      "500 words",
+      "≤6 references",
+      "≤3 authors"
     ]
   },
   {
     "heading": "Determine My Study Type",
+    "section_type": "study_type",
     "subsections": [
       {
         "subheading": "Research",
@@ -328,7 +343,9 @@
       },
       {
         "subheading": "Research Letter",
-        "content": ["Back to top"]
+        "content": [
+          "Back to top"
+        ]
       },
       {
         "subheading": "Clinical Review and Education",
@@ -336,7 +353,9 @@
       },
       {
         "subheading": "Reviews",
-        "content": ["The journal will consider 2 types of review articles:"]
+        "content": [
+          "The journal will consider 2 types of review articles:"
+        ]
       },
       {
         "subheading": "Systematic Reviews",
@@ -508,20 +527,6 @@
           "Summary of Findings: a brief summary of the results of the review or report with no more than 1 simple table or figure. Results must include absolute rates or absolute differences and number needed to treat.",
           "Discussion: a brief summary of the key results placed in context for the clinician. This section should include 3 subheadings: Limitations; Comparison of Findings With Current Practice Guidelines (if applicable); and Areas in Need of Future Study.",
           "Back to top"
-        ],
-        "list_items": [
-          "No. of studies overall",
-          "No. of randomized controlled trials",
-          "Study years (eg, 1956 to 2012) (not years of publication)",
-          "No. of patients",
-          "Men XX% Women XX%",
-          "Race/ethnicity",
-          "Age (mean XX and range xx-xxx)",
-          "Setting",
-          "Countries",
-          "Comparison (eg, higher vs lower hemoglobin threshold for transfusion of patients with anemia)",
-          "Primary outcomes",
-          "Secondary outcomes"
         ]
       },
       {
@@ -572,13 +577,6 @@
           "Each manuscript should clearly state an objective or hypothesis; the design and methods (including the study setting and dates, patients or participants with inclusion and exclusion criteria, or data sources, and how these were selected for the study); the essential features of any interventions; the primary and secondary outcome measures (consistent with those reported in the trial protocol); the main results of the study; a discussion section placing the results in context with the published literature and addressing study limitations; and the conclusions.",
           "A structured abstract is required, and trial registration information (registry name, trial ID, and URL) must be listed at the end of the abstract; for more information, see instructions for preparing Abstracts for Reports of Original Data. A list of 3 Key Points is required (see guidance on preparing Key Points). Maximum length: 3000 words of text (not including abstract, tables, figures, acknowledgments, references, and supplemental material) with no more than a total of 5 tables and/or figures and no more than 50-75 references. The subtitle should include the phrase \"A Randomized Clinical Trial\" or, for Nonrandomized Clinical Trials, \"A Nonrandomized Clinical Trial.\" To read more about clinical trials, see the AMA Manual of Style.",
           "Back to top"
-        ],
-        "list_items": [
-          "Copy of the original trial protocol, including the complete statistical analysis plan and any amendments. The journal recommends using the SPIRIT reporting guidelines when preparing original protocols (see Protocols).",
-          "CONSORT flow diagram (see Figure).",
-          "Completed trial checklist (see Checklist).",
-          "Registry at an appropriate online public clinical trial registry (see Trial Registration requirements).",
-          "A Data Sharing Statement to indicate if data will be shared or not. Specific questions regarding the sharing of data are included in the manuscript submission system."
         ]
       },
       {
@@ -588,18 +586,13 @@
           "Acceptable trial registries include the following and others listed at http://www.icmje.org:",
           "All clinical trials, regardless of when they were completed, and secondary analyses of original clinical trials must be registered before submission of a manuscript based on the trial. Secondary data analyses of primary (parent) clinical trials should not be registered as separate clinical trials, but instead should reference the trial registration number of the primary trial. Please note: for clinical trials starting patient enrollment after July 2005, trials must have been registered before onset of patient enrollment. For trials that began before July 2005 but that were not registered before September 13, 2005, trials must have been registered before journal submission. Trial registry name, registration identification number, and the URL for the registry should be included at the end of the abstract and also in the space provided on the online manuscript submission form.",
           "Back to top"
-        ],
-        "list_items": [
-          "anzctr.org.au",
-          "clinicaltrials.gov",
-          "isrctn.org",
-          "trialregister.nl",
-          "umin.ac.jp/ctr"
         ]
       },
       {
         "subheading": "Protocols:",
-        "content": ["Back to top"]
+        "content": [
+          "Back to top"
+        ]
       },
       {
         "subheading": "CONSORT Flow Diagram and Checklist:",
@@ -842,7 +835,29 @@
       "Structured abstract",
       "Key Points",
       "Data Sharing Statement",
-      "Follow SRQR Reporting Guidelines or COREQ Reporting Guidelines"
+      "Follow SRQR Reporting Guidelines or COREQ Reporting Guidelines",
+      "No. of studies overall",
+      "No. of randomized controlled trials",
+      "Study years (eg, 1956 to 2012) (not years of publication)",
+      "No. of patients",
+      "Men XX% Women XX%",
+      "Race/ethnicity",
+      "Age (mean XX and range xx-xxx)",
+      "Setting",
+      "Countries",
+      "Comparison (eg, higher vs lower hemoglobin threshold for transfusion of patients with anemia)",
+      "Primary outcomes",
+      "Secondary outcomes",
+      "Copy of the original trial protocol, including the complete statistical analysis plan and any amendments. The journal recommends using the SPIRIT reporting guidelines when preparing original protocols (see Protocols).",
+      "CONSORT flow diagram (see Figure).",
+      "Completed trial checklist (see Checklist).",
+      "Registry at an appropriate online public clinical trial registry (see Trial Registration requirements).",
+      "A Data Sharing Statement to indicate if data will be shared or not. Specific questions regarding the sharing of data are included in the manuscript submission system.",
+      "anzctr.org.au",
+      "clinicaltrials.gov",
+      "isrctn.org",
+      "trialregister.nl",
+      "umin.ac.jp/ctr"
     ]
   },
   {
@@ -850,19 +865,27 @@
     "subsections": [
       {
         "subheading": "Manuscript Preparation and Submission Requirements",
-        "content": ["Manuscript Preparation and Submission Requirements"]
+        "content": [
+          "Manuscript Preparation and Submission Requirements"
+        ]
       },
       {
         "subheading": "Manuscript Submission",
-        "content": ["Back to top"]
+        "content": [
+          "Back to top"
+        ]
       },
       {
         "subheading": "Copies of Previous Editorial and Reviewer Comments",
-        "content": ["Back to top"]
+        "content": [
+          "Back to top"
+        ]
       },
       {
         "subheading": "Cover Letter",
-        "content": ["Back to top"]
+        "content": [
+          "Back to top"
+        ]
       },
       {
         "subheading": "Manuscript Style",
@@ -873,7 +896,9 @@
       },
       {
         "subheading": "Manuscript Components",
-        "content": ["Back to top"]
+        "content": [
+          "Back to top"
+        ]
       },
       {
         "subheading": "Recommended File Sizes",
@@ -891,11 +916,15 @@
       },
       {
         "subheading": "Title Page",
-        "content": ["Back to top"]
+        "content": [
+          "Back to top"
+        ]
       },
       {
         "subheading": "Title",
-        "content": ["Back to top"]
+        "content": [
+          "Back to top"
+        ]
       },
       {
         "subheading": "Key Points",
@@ -1028,12 +1057,6 @@
           "Examples of reference style:",
           "For more examples of electronic references, click here.",
           "Back to top"
-        ],
-        "list_items": [
-          "Youngster I, Russell GH, Pindar C, Ziv-Baran T, Sauk J, Hohmann EL. Oral, capsulized, frozen fecal microbiota transplantation for relapsing Clostridium difficileinfection. JAMA. 2014;312(17):1772-1778.",
-          "Murray CJL. Maximizing antiretroviral therapy in developing countries: the dual challenge of efficiency and quality [published online December 1, 2014]. JAMA. doi:10.1001/jama.2014.16376",
-          "Centers for Medicare \u0026 Medicaid Services. CMS proposals to implement certain disclosure provisions of the Affordable Care Act. http://www.cms.gov/apps/media/press/factsheet.asp?Counter=4221. Accessed January 30, 2012.",
-          "McPhee SJ, Winker MA, Rabow MW, Pantilat SZ, Markowitz AJ, eds. Care at the Close of Life: Evidence and Experience. New York, NY: McGraw Hill Medical; 2011."
         ]
       },
       {
@@ -1054,13 +1077,9 @@
       },
       {
         "subheading": "Tables",
-        "content": ["Tables", "Back to top"],
-        "list_items": [
-          "Number all tables in the order of their citation in the text.",
-          "Include a brief title for each table (a descriptive phrase, preferably no longer than 10 to 15 words).",
-          "Include all tables at the end of the manuscript file.",
-          "Refer to Categories of Articles for limits on the number of tables.",
-          "NOTE: Do not embed tables as images in the manuscript file or upload tables in image formats, and do not upload tables as separate files."
+        "content": [
+          "Tables",
+          "Back to top"
         ]
       },
       {
@@ -1173,17 +1192,6 @@
         "content": [
           "For images featuring patients or other identifiable persons, it is not acceptable to use black bars across the eyes in an attempt to deidentify. Cropping may be acceptable as long as the condition under discussion is clearly visible and necessary anatomic landmarks display. If the person in the image is possibly identifiable (not only by others but also by her/himself), permission for publication is required (see Patient Identification).",
           "Back to top"
-        ],
-        "list_items": [
-          "Primary outcome data should not be presented in figures alone. Exact values with measure of variability should be reported in the text or table as well as in the abstract.",
-          "All symbols, indicators (including error bars), line styles, colors, and abbreviations should be defined in a legend.",
-          "Each axis on a statistical graph must have a label and units of measure should be labeled.",
-          "Do not use pie charts, 3-D graphs, and stacked bar charts as these are not appropriate for accurate statistical presentation of data and should be revised to another figure type or converted to a table.",
-          "Error bars should be included in both directions, unless only 1-sided variability was calculated.",
-          "Values for ratio data—odds ratios, relative risks, hazard ratios—should be plotted on a log scale. Values for ratio data should not be log transformed.",
-          "For footnotes, use letters (a, b, c, etc) not symbols.",
-          "Do not submit figures with more than 4 panels unless otherwise justified.",
-          "See the AMA Manual of Style for more guidance on figure types and components."
         ]
       },
       {
@@ -1295,46 +1303,18 @@
           "Verify that the videos are viewable in QuickTime or Windows Media Player before uploading.",
           "If the author does not hold copyright to the video, the author must obtain permission for the video to be published in the journal. This permission must be for unrestricted use in all print, online, and licensed versions of the journal.",
           "Back to top"
-        ],
-        "list_items": [
-          "Acceptable file formats: .mov, .wmv, .mpg, .mpeg, .mp4, or .avi",
-          "Maximum file size: ≤25 MB",
-          "Preferred dimensions: 1920x1080 (HD) or greater (4k UHD footage is acceptable)",
-          "Minimum dimensions: 640 pixels wide by 360 pixels deep",
-          "Recommended frame rate: 24 fps (or 23.976 fps), 25 and 30 fps (or 29.97 fps)",
-          "Maximum length: ≤5 minutes",
-          "Desired aspect ratio: 4:3 (standard) or 16:9 (widescreen)",
-          "If compression is required to reduce file size for uploading, please use a minimum bit rate of 10,000 kbit/s – 20,000 kbit/s",
-          "When filming, please use a landscape orientation, not a portrait orientation. This is especially important when filming video or taking photographs with a smartphone or a mobile device."
         ]
       },
       {
         "subheading": "Guidelines for Optimal Video Quality",
-        "content": ["Back to top"],
-        "list_items": [
-          "Use plenty of diffuse light; avoid shadows.",
-          "When filming, please use a landscape orientation, not a portrait orientation. This is especially important when filming video or taking photographs with a smartphone or a mobile device.",
-          "Use the appropriate white-balance based on your lighting conditions. Different cameras have different settings, but most have presets for incandescent (yellow) light, fluorescent light, daylight, and tungsten light. Please make sure to select the correct one so that the color of your footage renders accurately.",
-          "Do not overexpose the image; a bit underexposed is preferable.",
-          "Use a tripod. This is especially important in close-ups.",
-          "Avoid excessive zooming. Use the optical zoom only; do not use a digital zoom.",
-          "Turn off all camera special effects.",
-          "Avoid using autofocus. Manual focus is more accurate. Keep the camera at a fixed distance from the subject.",
-          "Instruct people on camera to speak clearly and face the camera when speaking. Try to avoid large movements while speaking or immediately after speaking. Allow pauses before and after speaking for easier editing.",
-          "If the situation permits, ensure that individuals being filmed are not wearing white clothing or clothing with busy patterns or stripes, especially shirts, jackets, and ties. Subdued medium blue, brown, tan, beige, and green colors all work well for shirt and clothing choices.",
-          "Do not include an introduction by the physician as a \"talking head\" explaining a procedure. All footage should be of the procedure or relevant subject matter only.",
-          "Record a few extra seconds before and after each cut or after changing the camera's position. This allows for easier editing."
+        "content": [
+          "Back to top"
         ]
       },
       {
         "subheading": "Additional Considerations for Filming Surgical Procedures",
-        "content": ["Back to top"],
-        "list_items": [
-          "Coordinate with the surgical staff to establish a vantage point for the camera that has a clear view of the surgical field.",
-          "Before the procedure, if the situation permits, identify the surgical staff's positions for access into and out of the surgical field to ensure there is no immediate obstruction of the camera.",
-          "During the procedure, avoid typical obstructions of the camera's main view such as arms reaching across the field or soiled surgical sponges. Where possible, keep the heads, hands, and any instruments away from the immediate sightline of the camera. This will ensure that all moments of the procedure are captured in full view and focus.",
-          "If the situation permits a choice of glove type, use brown or tan. White gloves reflect bright light; vividly colored surgical gloves can distract the viewer from the teaching point of the video.",
-          "If the situation permits, avoid rapid movements for procedural steps that should be noticed and understood. To demonstrate a key moment or use of an instrument, movement that is deliberate and steady will allow a standard camera to focus properly."
+        "content": [
+          "Back to top"
         ]
       },
       {
@@ -1343,15 +1323,6 @@
           "For each audio file, provide an in-text citation. At the end of the manuscript, include a title (a brief phrase, preferably no longer than 10-15 words) and a caption that includes the file format and a brief explanation for each audio.",
           "Back to top",
           "What to Expect"
-        ],
-        "list_items": [
-          "Acceptable file formats: .mp3, .wav, or .aiff",
-          "Maximum file size: 25 MB",
-          "To achieve the best quality, use a setting of 256 kbps or higher for stereo or 128 kbps or higher for mono.",
-          "Maximum length: ≤5 minutes",
-          "Sampling rate should be either 44.1 kHz or 48 kHz.",
-          "Bit rate should be either 16 or 24 bit.",
-          "To avoid audible clipping noise, please make sure that audio levels do not exceed 0 dBFS."
         ]
       }
     ],
@@ -1366,6 +1337,59 @@
         "type": "Design: Describe the basic design of the study and include the specific study type (eg, randomized  clinical trial, cohort, cross-sectional, case-control, case series, survey,  meta-analysis, bibliometric analysis). State the years of the study and the duration of follow-up. For older studies (eg, those completed \u003e3 years ago), add the date of the analysis being reported. If applicable, include the name of the study (eg, the Framingham Heart Study). As relevant, indicate whether observers were blinded to patient groupings, particularly for subjective measurements.",
         "description": ""
       }
+    ],
+    "list_items": [
+      "Youngster I, Russell GH, Pindar C, Ziv-Baran T, Sauk J, Hohmann EL. Oral, capsulized, frozen fecal microbiota transplantation for relapsing Clostridium difficileinfection. JAMA. 2014;312(17):1772-1778.",
+      "Murray CJL. Maximizing antiretroviral therapy in developing countries: the dual challenge of efficiency and quality [published online December 1, 2014]. JAMA. doi:10.1001/jama.2014.16376",
+      "Centers for Medicare \u0026 Medicaid Services. CMS proposals to implement certain disclosure provisions of the Affordable Care Act. http://www.cms.gov/apps/media/press/factsheet.asp?Counter=4221. Accessed January 30, 2012.",
+      "McPhee SJ, Winker MA, Rabow MW, Pantilat SZ, Markowitz AJ, eds. Care at the Close of Life: Evidence and Experience. New York, NY: McGraw Hill Medical; 2011.",
+      "Number all tables in the order of their citation in the text.",
+      "Include a brief title for each table (a descriptive phrase, preferably no longer than 10 to 15 words).",
+      "Include all tables at the end of the manuscript file.",
+      "Refer to Categories of Articles for limits on the number of tables.",
+      "NOTE: Do not embed tables as images in the manuscript file or upload tables in image formats, and do not upload tables as separate files.",
+      "Primary outcome data should not be presented in figures alone. Exact values with measure of variability should be reported in the text or table as well as in the abstract.",
+      "All symbols, indicators (including error bars), line styles, colors, and abbreviations should be defined in a legend.",
+      "Each axis on a statistical graph must have a label and units of measure should be labeled.",
+      "Do not use pie charts, 3-D graphs, and stacked bar charts as these are not appropriate for accurate statistical presentation of data and should be revised to another figure type or converted to a table.",
+      "Error bars should be included in both directions, unless only 1-sided variability was calculated.",
+      "Values for ratio data—odds ratios, relative risks, hazard ratios—should be plotted on a log scale. Values for ratio data should not be log transformed.",
+      "For footnotes, use letters (a, b, c, etc) not symbols.",
+      "Do not submit figures with more than 4 panels unless otherwise justified.",
+      "See the AMA Manual of Style for more guidance on figure types and components.",
+      "Acceptable file formats: .mov, .wmv, .mpg, .mpeg, .mp4, or .avi",
+      "Maximum file size: ≤25 MB",
+      "Preferred dimensions: 1920x1080 (HD) or greater (4k UHD footage is acceptable)",
+      "Minimum dimensions: 640 pixels wide by 360 pixels deep",
+      "Recommended frame rate: 24 fps (or 23.976 fps), 25 and 30 fps (or 29.97 fps)",
+      "Maximum length: ≤5 minutes",
+      "Desired aspect ratio: 4:3 (standard) or 16:9 (widescreen)",
+      "If compression is required to reduce file size for uploading, please use a minimum bit rate of 10,000 kbit/s – 20,000 kbit/s",
+      "When filming, please use a landscape orientation, not a portrait orientation. This is especially important when filming video or taking photographs with a smartphone or a mobile device.",
+      "Use plenty of diffuse light; avoid shadows.",
+      "When filming, please use a landscape orientation, not a portrait orientation. This is especially important when filming video or taking photographs with a smartphone or a mobile device.",
+      "Use the appropriate white-balance based on your lighting conditions. Different cameras have different settings, but most have presets for incandescent (yellow) light, fluorescent light, daylight, and tungsten light. Please make sure to select the correct one so that the color of your footage renders accurately.",
+      "Do not overexpose the image; a bit underexposed is preferable.",
+      "Use a tripod. This is especially important in close-ups.",
+      "Avoid excessive zooming. Use the optical zoom only; do not use a digital zoom.",
+      "Turn off all camera special effects.",
+      "Avoid using autofocus. Manual focus is more accurate. Keep the camera at a fixed distance from the subject.",
+      "Instruct people on camera to speak clearly and face the camera when speaking. Try to avoid large movements while speaking or immediately after speaking. Allow pauses before and after speaking for easier editing.",
+      "If the situation permits, ensure that individuals being filmed are not wearing white clothing or clothing with busy patterns or stripes, especially shirts, jackets, and ties. Subdued medium blue, brown, tan, beige, and green colors all work well for shirt and clothing choices.",
+      "Do not include an introduction by the physician as a \"talking head\" explaining a procedure. All footage should be of the procedure or relevant subject matter only.",
+      "Record a few extra seconds before and after each cut or after changing the camera's position. This allows for easier editing.",
+      "Coordinate with the surgical staff to establish a vantage point for the camera that has a clear view of the surgical field.",
+      "Before the procedure, if the situation permits, identify the surgical staff's positions for access into and out of the surgical field to ensure there is no immediate obstruction of the camera.",
+      "During the procedure, avoid typical obstructions of the camera's main view such as arms reaching across the field or soiled surgical sponges. Where possible, keep the heads, hands, and any instruments away from the immediate sightline of the camera. This will ensure that all moments of the procedure are captured in full view and focus.",
+      "If the situation permits a choice of glove type, use brown or tan. White gloves reflect bright light; vividly colored surgical gloves can distract the viewer from the teaching point of the video.",
+      "If the situation permits, avoid rapid movements for procedural steps that should be noticed and understood. To demonstrate a key moment or use of an instrument, movement that is deliberate and steady will allow a standard camera to focus properly.",
+      "Acceptable file formats: .mp3, .wav, or .aiff",
+      "Maximum file size: 25 MB",
+      "To achieve the best quality, use a setting of 256 kbps or higher for stereo or 128 kbps or higher for mono.",
+      "Maximum length: ≤5 minutes",
+      "Sampling rate should be either 44.1 kHz or 48 kHz.",
+      "Bit rate should be either 16 or 24 bit.",
+      "To avoid audible clipping noise, please make sure that audio levels do not exceed 0 dBFS."
     ]
   },
   {
@@ -1373,7 +1397,10 @@
     "subsections": [
       {
         "subheading": "Editorial and Peer Review",
-        "content": ["Editorial and Peer Review", "Back to top"]
+        "content": [
+          "Editorial and Peer Review",
+          "Back to top"
+        ]
       },
       {
         "subheading": "Appeals",
@@ -1491,22 +1518,6 @@
         "content": [
           "Open Access",
           "Authors have the option to choose the type of Publishing Agreement, either (1) a free no-fee public access option or (2) one of two author-pay open access options. These options will be available for authors to request at the time of manuscript submission. Reviewers and editors will be unaware of the request for open access until after a final decision is made. For  detailed information on public access, open access (including fees, waivers, and discounts), copyright, and licensing, please see below."
-        ],
-        "list_items": [
-          "Free Public Access Option and Copyright Transfer\n    All research articles, regardless of funding, that are accepted for publication will be made free access online 12 months after publication on the journal website and will be deposited on your behalf in PubMed Central. If you choose this option, there are no fees and you will select A, B, or C for copyright transfer in the Publishing Agreement. All authors will be required to complete the Publishing Agreement that will indicate this Public Access Option before any manuscript can be accepted for publication. See also Research Article Public Access, Depositing in Repositories, and Discoverability.\n    \n        \n        Copyright Transfer. In consideration of the action of the American Medical Association (AMA) in reviewing and editing this submission (manuscript, tables, figures, video, audio, and other supplemental files for publication), I hereby transfer, assign, or otherwise convey all copyright ownership, including any and all rights incidental thereto, exclusively to the AMA, in the event that such work is published by the AMA.\n        \n        \n        Federal Employment. I was an employee of the US federal government or that of another nation when this work was conducted and prepared for publication; therefore, it is not protected by the Copyright Act, and copyright ownership cannot be transferred.\n        \n        \n        Work for Hire. I am employed by an institution that considers this submission a \"work made for hire\" and that requires an authorized representative of the institution to assign copyright on my behalf.",
-          "Author-Pay Open Access Options\n    All eligible research articles that are accepted for publication will be made free access on the journal website following payment of article  processing charges (APC) of $5000 and grant of a publication license to the journal and will be deposited on your behalf in PubMed  Central for  free access  following deposit. There are 2 Open Access Options available below, depending on the source of APC funding. All authors will be  required to confirm the Publishing Agreement that indicates the Open Access Option before any manuscript can be accepted for publication.\n    \n        \n        CC-BY License\n        \n            \n            Eligibility: Available only for authors of manuscripts reporting  research funded by a not-for-profit foundation or agency or unfunded research. Note: If your open access funding source is  commercial, only a CC-BY-NC-ND license is available.\n            \n            \n            Author requirements: Payment of $5000 and transfer of a publication  license to the journal.\n            \n            \n            License rights: Immediate open access on journal website on the day of  publication, retention of  copyright, and a CC-BY license that permits others to distribute, remix, tweak,  and build on the work, even commercially, without permission, provided that  credit is given to the original authors and journal.\n            \n        \n        \n        \n        CC-BY-NC-ND License\n        \n            \n            Eligibility: Available for authors of manuscripts reporting research funded by a commercial funding source.\n            \n            \n            Author requirements: Payment of $5000 and grant of a publication license to the  journal.\n            \n            \n            License rights: Immediate open access on journal website on the day of publication and a CC-BY-NC-ND license  that permits others to distribute the work without permission, provided that credit is  given to the original authors and journal and that the article is not altered or used commercially.",
-          "Open Access Waivers and Discounts\n    Waivers and discounts on open access article processing charges are available for eligible authors from Hinari Core Offer countries with limited resources.",
-          "Copyright Transfer. In consideration of the action of the American Medical Association (AMA) in reviewing and editing this submission (manuscript, tables, figures, video, audio, and other supplemental files for publication), I hereby transfer, assign, or otherwise convey all copyright ownership, including any and all rights incidental thereto, exclusively to the AMA, in the event that such work is published by the AMA.",
-          "Federal Employment. I was an employee of the US federal government or that of another nation when this work was conducted and prepared for publication; therefore, it is not protected by the Copyright Act, and copyright ownership cannot be transferred.",
-          "Work for Hire. I am employed by an institution that considers this submission a \"work made for hire\" and that requires an authorized representative of the institution to assign copyright on my behalf.",
-          "CC-BY License\n        \n            \n            Eligibility: Available only for authors of manuscripts reporting  research funded by a not-for-profit foundation or agency or unfunded research. Note: If your open access funding source is  commercial, only a CC-BY-NC-ND license is available.\n            \n            \n            Author requirements: Payment of $5000 and transfer of a publication  license to the journal.\n            \n            \n            License rights: Immediate open access on journal website on the day of  publication, retention of  copyright, and a CC-BY license that permits others to distribute, remix, tweak,  and build on the work, even commercially, without permission, provided that  credit is given to the original authors and journal.",
-          "CC-BY-NC-ND License\n        \n            \n            Eligibility: Available for authors of manuscripts reporting research funded by a commercial funding source.\n            \n            \n            Author requirements: Payment of $5000 and grant of a publication license to the  journal.\n            \n            \n            License rights: Immediate open access on journal website on the day of publication and a CC-BY-NC-ND license  that permits others to distribute the work without permission, provided that credit is  given to the original authors and journal and that the article is not altered or used commercially.",
-          "Eligibility: Available only for authors of manuscripts reporting  research funded by a not-for-profit foundation or agency or unfunded research. Note: If your open access funding source is  commercial, only a CC-BY-NC-ND license is available.",
-          "Author requirements: Payment of $5000 and transfer of a publication  license to the journal.",
-          "License rights: Immediate open access on journal website on the day of  publication, retention of  copyright, and a CC-BY license that permits others to distribute, remix, tweak,  and build on the work, even commercially, without permission, provided that  credit is given to the original authors and journal.",
-          "Eligibility: Available for authors of manuscripts reporting research funded by a commercial funding source.",
-          "Author requirements: Payment of $5000 and grant of a publication license to the  journal.",
-          "License rights: Immediate open access on journal website on the day of publication and a CC-BY-NC-ND license  that permits others to distribute the work without permission, provided that credit is  given to the original authors and journal and that the article is not altered or used commercially."
         ]
       },
       {
@@ -1520,7 +1531,23 @@
         ]
       }
     ],
-    "submission_link": ""
+    "submission_link": "",
+    "list_items": [
+      "Free Public Access Option and Copyright Transfer\n    All research articles, regardless of funding, that are accepted for publication will be made free access online 12 months after publication on the journal website and will be deposited on your behalf in PubMed Central. If you choose this option, there are no fees and you will select A, B, or C for copyright transfer in the Publishing Agreement. All authors will be required to complete the Publishing Agreement that will indicate this Public Access Option before any manuscript can be accepted for publication. See also Research Article Public Access, Depositing in Repositories, and Discoverability.\n    \n        \n        Copyright Transfer. In consideration of the action of the American Medical Association (AMA) in reviewing and editing this submission (manuscript, tables, figures, video, audio, and other supplemental files for publication), I hereby transfer, assign, or otherwise convey all copyright ownership, including any and all rights incidental thereto, exclusively to the AMA, in the event that such work is published by the AMA.\n        \n        \n        Federal Employment. I was an employee of the US federal government or that of another nation when this work was conducted and prepared for publication; therefore, it is not protected by the Copyright Act, and copyright ownership cannot be transferred.\n        \n        \n        Work for Hire. I am employed by an institution that considers this submission a \"work made for hire\" and that requires an authorized representative of the institution to assign copyright on my behalf.",
+      "Author-Pay Open Access Options\n    All eligible research articles that are accepted for publication will be made free access on the journal website following payment of article  processing charges (APC) of $5000 and grant of a publication license to the journal and will be deposited on your behalf in PubMed  Central for  free access  following deposit. There are 2 Open Access Options available below, depending on the source of APC funding. All authors will be  required to confirm the Publishing Agreement that indicates the Open Access Option before any manuscript can be accepted for publication.\n    \n        \n        CC-BY License\n        \n            \n            Eligibility: Available only for authors of manuscripts reporting  research funded by a not-for-profit foundation or agency or unfunded research. Note: If your open access funding source is  commercial, only a CC-BY-NC-ND license is available.\n            \n            \n            Author requirements: Payment of $5000 and transfer of a publication  license to the journal.\n            \n            \n            License rights: Immediate open access on journal website on the day of  publication, retention of  copyright, and a CC-BY license that permits others to distribute, remix, tweak,  and build on the work, even commercially, without permission, provided that  credit is given to the original authors and journal.\n            \n        \n        \n        \n        CC-BY-NC-ND License\n        \n            \n            Eligibility: Available for authors of manuscripts reporting research funded by a commercial funding source.\n            \n            \n            Author requirements: Payment of $5000 and grant of a publication license to the  journal.\n            \n            \n            License rights: Immediate open access on journal website on the day of publication and a CC-BY-NC-ND license  that permits others to distribute the work without permission, provided that credit is  given to the original authors and journal and that the article is not altered or used commercially.",
+      "Open Access Waivers and Discounts\n    Waivers and discounts on open access article processing charges are available for eligible authors from Hinari Core Offer countries with limited resources.",
+      "Copyright Transfer. In consideration of the action of the American Medical Association (AMA) in reviewing and editing this submission (manuscript, tables, figures, video, audio, and other supplemental files for publication), I hereby transfer, assign, or otherwise convey all copyright ownership, including any and all rights incidental thereto, exclusively to the AMA, in the event that such work is published by the AMA.",
+      "Federal Employment. I was an employee of the US federal government or that of another nation when this work was conducted and prepared for publication; therefore, it is not protected by the Copyright Act, and copyright ownership cannot be transferred.",
+      "Work for Hire. I am employed by an institution that considers this submission a \"work made for hire\" and that requires an authorized representative of the institution to assign copyright on my behalf.",
+      "CC-BY License\n        \n            \n            Eligibility: Available only for authors of manuscripts reporting  research funded by a not-for-profit foundation or agency or unfunded research. Note: If your open access funding source is  commercial, only a CC-BY-NC-ND license is available.\n            \n            \n            Author requirements: Payment of $5000 and transfer of a publication  license to the journal.\n            \n            \n            License rights: Immediate open access on journal website on the day of  publication, retention of  copyright, and a CC-BY license that permits others to distribute, remix, tweak,  and build on the work, even commercially, without permission, provided that  credit is given to the original authors and journal.",
+      "CC-BY-NC-ND License\n        \n            \n            Eligibility: Available for authors of manuscripts reporting research funded by a commercial funding source.\n            \n            \n            Author requirements: Payment of $5000 and grant of a publication license to the  journal.\n            \n            \n            License rights: Immediate open access on journal website on the day of publication and a CC-BY-NC-ND license  that permits others to distribute the work without permission, provided that credit is  given to the original authors and journal and that the article is not altered or used commercially.",
+      "Eligibility: Available only for authors of manuscripts reporting  research funded by a not-for-profit foundation or agency or unfunded research. Note: If your open access funding source is  commercial, only a CC-BY-NC-ND license is available.",
+      "Author requirements: Payment of $5000 and transfer of a publication  license to the journal.",
+      "License rights: Immediate open access on journal website on the day of  publication, retention of  copyright, and a CC-BY license that permits others to distribute, remix, tweak,  and build on the work, even commercially, without permission, provided that  credit is given to the original authors and journal.",
+      "Eligibility: Available for authors of manuscripts reporting research funded by a commercial funding source.",
+      "Author requirements: Payment of $5000 and grant of a publication license to the  journal.",
+      "License rights: Immediate open access on journal website on the day of publication and a CC-BY-NC-ND license  that permits others to distribute the work without permission, provided that credit is  given to the original authors and journal and that the article is not altered or used commercially."
+    ]
   },
   {
     "heading": "Author Responsibilities",
@@ -1543,12 +1570,6 @@
           "Nonhuman artificial intelligence, language models, machine learning, or similar technologies do not qualify for authorship. If these models or tools are used to create content or assist with writing or manuscript preparation, authors must take responsibility for the integrity of the content generated by these tools. Authors should report the use of artificial intelligence, language models, machine learning, or similar technologies to create content or assist with writing or editing of manuscripts in the Acknowledgment section or Methods section if this is part of formal research design or methods. See also Use of AI in Publication and Research, Reproduced and Re-created Material, and Image Integrity.",
           "The authors also must certify that the manuscript represents valid work and that neither this manuscript nor one with substantially similar content under their authorship has been published or is being considered for publication elsewhere (see also About Previous Release of Information, Embargo, and Access).2 Authors of manuscripts reporting original data or systematic reviews must provide an access to data statement from 1 or 2 named authors, often the corresponding author (see also Data Access, Responsibility, and Analysis). If requested, authors should be prepared to provide the data and must cooperate fully in obtaining and providing the data on which the manuscript is based for examination by the editors or their assignees.",
           "Back to top"
-        ],
-        "list_items": [
-          "substantial contributions to conception or design of the work, or the acquisition, analysis, or interpretation of data for the work; and",
-          "drafting of the work or reviewing it critically for important intellectual content; and",
-          "final approval of the version to be published; and",
-          "agreement to be accountable for all aspects of the work in ensuring that questions related to the accuracy or integrity of any part of the work are appropriately investigated and resolved."
         ]
       },
       {
@@ -1563,7 +1584,10 @@
       },
       {
         "subheading": "Changes in Authorship",
-        "content": ["Changes in Authorship", "Back to top"]
+        "content": [
+          "Changes in Authorship",
+          "Back to top"
+        ]
       },
       {
         "subheading": "Name Change Policy",
@@ -1604,7 +1628,10 @@
       },
       {
         "subheading": "Funding/Support and Role of Funder/Sponsor",
-        "content": ["Funding/Support and Role of Funder/Sponsor", "Back to top"]
+        "content": [
+          "Funding/Support and Role of Funder/Sponsor",
+          "Back to top"
+        ]
       },
       {
         "subheading": "Data Access, Responsibility, and Analysis",
@@ -1636,14 +1663,23 @@
       }
     ],
     "contact_info": "Although many universities and other institutions and organizations have established policies and thresholds for reporting financial interests and other conflicts of interest, the JAMA Network requires complete disclosure of all relevant financial relationships and potential financial conflicts of interest, regardless of amount or value. For example, authors of a manuscript about hypertension should report all financial relationships they have with all manufacturers and owners of products, devices, tests, and services used in the management of hypertension, not only those relationships with entities whose specific products, devices, tests, and services are mentioned in the manuscript. If authors are uncertain about what constitutes a relevant financial interest or relationship, they should contact the editorial office.",
-    "submission_link": ""
+    "submission_link": "",
+    "list_items": [
+      "substantial contributions to conception or design of the work, or the acquisition, analysis, or interpretation of data for the work; and",
+      "drafting of the work or reviewing it critically for important intellectual content; and",
+      "final approval of the version to be published; and",
+      "agreement to be accountable for all aspects of the work in ensuring that questions related to the accuracy or integrity of any part of the work are appropriately investigated and resolved."
+    ]
   },
   {
     "heading": "Requirements for Reporting",
     "subsections": [
       {
         "subheading": "EQUATOR Reporting Guidelines",
-        "content": ["EQUATOR Reporting Guidelines", "Back to top"]
+        "content": [
+          "EQUATOR Reporting Guidelines",
+          "Back to top"
+        ]
       },
       {
         "subheading": "Use of Causal Language",
@@ -1663,7 +1699,9 @@
       },
       {
         "subheading": "Statistical Methods and Data Presentation",
-        "content": ["Statistical Methods and Data Presentation"]
+        "content": [
+          "Statistical Methods and Data Presentation"
+        ]
       },
       {
         "subheading": "General Considerations",
@@ -1705,7 +1743,9 @@
       },
       {
         "subheading": "Primary Outcomes, Multiple Comparisons, and Post Hoc Comparisons",
-        "content": ["Back to top"]
+        "content": [
+          "Back to top"
+        ]
       },
       {
         "subheading": "Statistical Analysis Subsection",
@@ -1768,7 +1808,9 @@
       },
       {
         "subheading": "Patient Identification",
-        "content": ["Patient Identification"]
+        "content": [
+          "Patient Identification"
+        ]
       },
       {
         "subheading": "Patient Permission Form:",
@@ -1779,21 +1821,15 @@
       },
       {
         "subheading": "Use of AI in Publication and Research",
-        "content": ["Use of AI in Publication and Research"]
+        "content": [
+          "Use of AI in Publication and Research"
+        ]
       },
       {
         "subheading": "AI Used in Manuscript Preparation",
         "content": [
           "When traditional and generative AI technologies are used to create, review, revise, or edit any of the content in a manuscript, authors should report in the Acknowledgment section the following:",
           "Note this guidance does not apply to basic tools for checking grammar, spelling, references, and similar."
-        ],
-        "list_items": [
-          "Name of the AI software platform, program, or tool",
-          "Version and extension numbers",
-          "Manufacturer",
-          "Date(s) of use",
-          "A brief description of how the AI was used and on what portions of the manuscript or content",
-          "Confirmation that the author(s) take responsibility for the integrity of the content generated"
         ]
       },
       {
@@ -1805,29 +1841,6 @@
           "Results Section",
           "Discussion Section",
           "Back to top"
-        ],
-        "list_items": [
-          "Follow relevant reporting guidelines for specific study designs when they exist and report each recommended guideline element with sufficient detail to enable reproducibility.",
-          "Avoid inclusion of identifiable patient information in text, tables, and figures.",
-          "Be aware of copyright and intellectual property concerns.",
-          "If content protected by copyright was entered into the AI model by authors, include a copy of the permission or license from the copyright owner and describe this permission/license in the Methods section.",
-          "If content (text, images, multimedia) generated by AI is included in a submitted manuscript or supplemental material, indicate rights or permissions to publish that content as determined by the AI service or owner in the Methods section or in the legend(s) of any AI-generated figures or multimedia.",
-          "Include the study design and, if a relevant reporting guideline exists, indicate how it was followed, with sufficient detail to enable reproducibility.",
-          "Describe how AI was used for specific aspects of the study (eg, to generate or refine study hypotheses, assist in the generation of a list of adjustment variables, create graphs to show visual relationships).",
-          "For studies using LLMs, provide the name of the platform or program, tool, version, and manufacturer; specify dates and prompt(s) used and their sequence and any revisions to prompts in response to initial outputs.",
-          "For studies reporting ML and algorithm development, include details about data sets used for development, training, and validation. Clearly state if algorithms were trained and tested only on previously collected or existing data sets or if the study includes prospective deployment. Include the ML model and describe the variables and outcome(s) and selection of the fine-tuning parameters. Describe any assumptions involved (eg, log linearity, proportionality) and how these assumptions were tested.",
-          "Indicate the metric used to evaluate the performance of the algorithms, including bias, discrimination, calibration, reclassification, and others as appropriate.",
-          "Indicate the methods used to address missing data.",
-          "Indicate institutional review board/ethics review, approval, waiver, or exemption.",
-          "Describe methods or analyses included to address and manage AI-related methodologic bias and inaccuracy of AI-generated content.",
-          "Indicate, when appropriate, if sensitivity analyses were performed to explore the performance of the AI model in vulnerable or underrepresented subgroups.",
-          "Provide a data sharing statement, including if code will be shared.",
-          "When reporting comparisons, provide performance assessments (eg, against standard of care), include effect sizes and measures of uncertainty (eg, 95% CIs) and other measurements such as likelihood ratios, and include information about performance errors, inaccurate or missing data, and sufficient detail for others to reproduce the findings.",
-          "Report the results of analyses to address methodologic bias and population representation.",
-          "If examples of generated text or content are included in tables or figures, be sure to indicate the source and licensing information, as noted above.",
-          "Discuss the potential for AI-related bias and what was done to identify and mitigate such bias.",
-          "Discuss the potential for inaccuracy of AI-generated content and what was done to identify and manage this.",
-          "Discuss generalizability of findings across populations and results of analyses performed to explore the performance of the AI model in vulnerable or underrepresented subgroups."
         ]
       },
       {
@@ -1854,6 +1867,35 @@
         "type": "Authors of research articles should follow the EQUATOR Reporting Guidelines. See specific Study Types for detailed guidance on reporting.",
         "description": ""
       }
+    ],
+    "list_items": [
+      "Name of the AI software platform, program, or tool",
+      "Version and extension numbers",
+      "Manufacturer",
+      "Date(s) of use",
+      "A brief description of how the AI was used and on what portions of the manuscript or content",
+      "Confirmation that the author(s) take responsibility for the integrity of the content generated",
+      "Follow relevant reporting guidelines for specific study designs when they exist and report each recommended guideline element with sufficient detail to enable reproducibility.",
+      "Avoid inclusion of identifiable patient information in text, tables, and figures.",
+      "Be aware of copyright and intellectual property concerns.",
+      "If content protected by copyright was entered into the AI model by authors, include a copy of the permission or license from the copyright owner and describe this permission/license in the Methods section.",
+      "If content (text, images, multimedia) generated by AI is included in a submitted manuscript or supplemental material, indicate rights or permissions to publish that content as determined by the AI service or owner in the Methods section or in the legend(s) of any AI-generated figures or multimedia.",
+      "Include the study design and, if a relevant reporting guideline exists, indicate how it was followed, with sufficient detail to enable reproducibility.",
+      "Describe how AI was used for specific aspects of the study (eg, to generate or refine study hypotheses, assist in the generation of a list of adjustment variables, create graphs to show visual relationships).",
+      "For studies using LLMs, provide the name of the platform or program, tool, version, and manufacturer; specify dates and prompt(s) used and their sequence and any revisions to prompts in response to initial outputs.",
+      "For studies reporting ML and algorithm development, include details about data sets used for development, training, and validation. Clearly state if algorithms were trained and tested only on previously collected or existing data sets or if the study includes prospective deployment. Include the ML model and describe the variables and outcome(s) and selection of the fine-tuning parameters. Describe any assumptions involved (eg, log linearity, proportionality) and how these assumptions were tested.",
+      "Indicate the metric used to evaluate the performance of the algorithms, including bias, discrimination, calibration, reclassification, and others as appropriate.",
+      "Indicate the methods used to address missing data.",
+      "Indicate institutional review board/ethics review, approval, waiver, or exemption.",
+      "Describe methods or analyses included to address and manage AI-related methodologic bias and inaccuracy of AI-generated content.",
+      "Indicate, when appropriate, if sensitivity analyses were performed to explore the performance of the AI model in vulnerable or underrepresented subgroups.",
+      "Provide a data sharing statement, including if code will be shared.",
+      "When reporting comparisons, provide performance assessments (eg, against standard of care), include effect sizes and measures of uncertainty (eg, 95% CIs) and other measurements such as likelihood ratios, and include information about performance errors, inaccurate or missing data, and sufficient detail for others to reproduce the findings.",
+      "Report the results of analyses to address methodologic bias and population representation.",
+      "If examples of generated text or content are included in tables or figures, be sure to indicate the source and licensing information, as noted above.",
+      "Discuss the potential for AI-related bias and what was done to identify and mitigate such bias.",
+      "Discuss the potential for inaccuracy of AI-generated content and what was done to identify and manage this.",
+      "Discuss generalizability of findings across populations and results of analyses performed to explore the performance of the AI model in vulnerable or underrepresented subgroups."
     ]
   },
   {
@@ -1868,7 +1910,10 @@
       },
       {
         "subheading": "Publishing Agreement",
-        "content": ["Publishing Agreement", "Back to top"]
+        "content": [
+          "Publishing Agreement",
+          "Back to top"
+        ]
       },
       {
         "subheading": "Unauthorized Use",
@@ -1911,23 +1956,6 @@
           "15. Christiansen S, Flanagin A. Correcting the medical literature: \"to err is human, to correct divine.\" JAMA. 2017;318(9):804-805. doi:10.1001/jama.2017.11833",
           "15.",
           "Last Updated: October 21, 2024"
-        ],
-        "list_items": [
-          "1. Cummings P, Rivara FP. Reporting statistical information in medical journal articles. Arch Pediatr Adolesc Med. 2003;157(4):321-324. doi:10.1001/archpedi.157.4.321",
-          "2. Iverson C, Christiansen S, Flanagin A, et al. AMA Manual of Style: A Guide for Authors and Editors. 11th ed. Oxford University Press; 2020. http://www.amamanualofstyle.com",
-          "3. Golub RM. Correspondence course: tips for getting a letter published in JAMA. JAMA. 2008;300(1):98-99. doi:10.1001/jama.300.1.98",
-          "4. International Committee of Medical Journal Editors. Recommendations for the conduct, reporting, editing, and publication of scholarly work in medical journals. Updated May 2023. Accessed May 18, 2023. http://www.icmje.org/recommendations/",
-          "5. Fontanarosa PB, Flanagin A, DeAngelis CD. Update on JAMA's policy on release of information to the public. JAMA. 2008;300(13):1585-1587. doi:10.1001/jama.300.13.1585",
-          "6. Fontanarosa P, Bauchner H, Flanagin A. Authorship and team science. JAMA. 2017;318(24):2433-2437. doi:10.1001/jama.2017.19341",
-          "7. Fontanarosa PB, Flanagin A, DeAngelis CD. Reporting conflicts of interest, financial aspects of research, and role of sponsors in funded studies. JAMA. 2005;294(1):110-111. doi:10.1001/jama.294.1.110",
-          "8. DeAngelis CD, Drazen JM, Frizelle FA, et al; International Committee of Medical Journal Editors. Clinical trial registration: a statement from the International Committee of Medical Journal Editors. JAMA. 2004;292(11):1363-1364. doi:10.1001/jamainternmed.2014.6933",
-          "9. DeAngelis CD, Drazen JM, Frizelle FA, et al; International Committee of Medical Journal Editors. Is this clinical trial fully registered? a statement from the International Committee of Medical Journal Editors. JAMA. 2005;293(23):2927-2929. doi:10.1001/jama.293.23.jed50037",
-          "10. The CONSORT Group. The CONSORT statement. Updated 2014. Accessed September 23, 2016. http://www.consort-statement.org/consort-2010",
-          "11. American Association for Public Opinion Research. Best practices for survey research. Accessed March 23, 2023. https://aapor.org/standards-and-ethics/best-practices/",
-          "12. Clayton JA, Tannenbaum C. Reporting sex, gender, or both in clinical research? JAMA. 2016;316(18):1863-1864. doi:10.1001/jama.2016.16405",
-          "13. World Medical Association. World Medical Association Declaration of Helsinki: ethical principles for medical research involving human participants. JAMA. Published online October 19, 2024. doi:10.1001/jama.2024.21972",
-          "14. Journal Editors and Authors Group. Statement on scientific publication and security. Science. 2003;299(5610):1149. doi:10.1126/science.299.5610.1149. Published correction appears in Science. 2003;299(5614):1845.",
-          "15. Christiansen S, Flanagin A. Correcting the medical literature: \"to err is human, to correct divine.\" JAMA. 2017;318(9):804-805. doi:10.1001/jama.2017.11833"
         ]
       },
       {
@@ -1938,26 +1966,41 @@
           "Add or change institution",
           "Add or change institution",
           "We have recognized your opt-out signal. To learn more about changing your opt-in signal preferences, please visit globalprivacycontrol.org"
-        ],
-        "list_items": [
-          "About JAMA Cardiology",
-          "Why Publish in JAMA Cardiology",
-          "Submit and Track Your Manuscript",
-          "Author Reprints",
-          "Permissions Requests",
-          "Author CME",
-          "Register for email alerts with links to free full-text articles",
-          "Access PDFs of free articles",
-          "Manage your interests",
-          "Save searches and receive search alerts",
-          "Register for email alerts with links to free full-text articles",
-          "Access PDFs of free articles",
-          "Manage your interests",
-          "Save searches and receive search alerts"
         ]
       }
     ],
-    "submission_link": ""
+    "submission_link": "",
+    "list_items": [
+      "1. Cummings P, Rivara FP. Reporting statistical information in medical journal articles. Arch Pediatr Adolesc Med. 2003;157(4):321-324. doi:10.1001/archpedi.157.4.321",
+      "2. Iverson C, Christiansen S, Flanagin A, et al. AMA Manual of Style: A Guide for Authors and Editors. 11th ed. Oxford University Press; 2020. http://www.amamanualofstyle.com",
+      "3. Golub RM. Correspondence course: tips for getting a letter published in JAMA. JAMA. 2008;300(1):98-99. doi:10.1001/jama.300.1.98",
+      "4. International Committee of Medical Journal Editors. Recommendations for the conduct, reporting, editing, and publication of scholarly work in medical journals. Updated May 2023. Accessed May 18, 2023. http://www.icmje.org/recommendations/",
+      "5. Fontanarosa PB, Flanagin A, DeAngelis CD. Update on JAMA's policy on release of information to the public. JAMA. 2008;300(13):1585-1587. doi:10.1001/jama.300.13.1585",
+      "6. Fontanarosa P, Bauchner H, Flanagin A. Authorship and team science. JAMA. 2017;318(24):2433-2437. doi:10.1001/jama.2017.19341",
+      "7. Fontanarosa PB, Flanagin A, DeAngelis CD. Reporting conflicts of interest, financial aspects of research, and role of sponsors in funded studies. JAMA. 2005;294(1):110-111. doi:10.1001/jama.294.1.110",
+      "8. DeAngelis CD, Drazen JM, Frizelle FA, et al; International Committee of Medical Journal Editors. Clinical trial registration: a statement from the International Committee of Medical Journal Editors. JAMA. 2004;292(11):1363-1364. doi:10.1001/jamainternmed.2014.6933",
+      "9. DeAngelis CD, Drazen JM, Frizelle FA, et al; International Committee of Medical Journal Editors. Is this clinical trial fully registered? a statement from the International Committee of Medical Journal Editors. JAMA. 2005;293(23):2927-2929. doi:10.1001/jama.293.23.jed50037",
+      "10. The CONSORT Group. The CONSORT statement. Updated 2014. Accessed September 23, 2016. http://www.consort-statement.org/consort-2010",
+      "11. American Association for Public Opinion Research. Best practices for survey research. Accessed March 23, 2023. https://aapor.org/standards-and-ethics/best-practices/",
+      "12. Clayton JA, Tannenbaum C. Reporting sex, gender, or both in clinical research? JAMA. 2016;316(18):1863-1864. doi:10.1001/jama.2016.16405",
+      "13. World Medical Association. World Medical Association Declaration of Helsinki: ethical principles for medical research involving human participants. JAMA. Published online October 19, 2024. doi:10.1001/jama.2024.21972",
+      "14. Journal Editors and Authors Group. Statement on scientific publication and security. Science. 2003;299(5610):1149. doi:10.1126/science.299.5610.1149. Published correction appears in Science. 2003;299(5614):1845.",
+      "15. Christiansen S, Flanagin A. Correcting the medical literature: \"to err is human, to correct divine.\" JAMA. 2017;318(9):804-805. doi:10.1001/jama.2017.11833",
+      "About JAMA Cardiology",
+      "Why Publish in JAMA Cardiology",
+      "Submit and Track Your Manuscript",
+      "Author Reprints",
+      "Permissions Requests",
+      "Author CME",
+      "Register for email alerts with links to free full-text articles",
+      "Access PDFs of free articles",
+      "Manage your interests",
+      "Save searches and receive search alerts",
+      "Register for email alerts with links to free full-text articles",
+      "Access PDFs of free articles",
+      "Manage your interests",
+      "Save searches and receive search alerts"
+    ]
   },
   {
     "heading": "Opt out of targeted advertising"
@@ -1967,7 +2010,9 @@
     "subsections": [
       {
         "subheading": "Targeted Advertising",
-        "content": ["Targeted Advertising"]
+        "content": [
+          "Targeted Advertising"
+        ]
       },
       {
         "subheading": "Strictly Necessary Cookies",

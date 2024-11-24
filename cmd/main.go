@@ -50,15 +50,17 @@ func main() {
 }
 
 type Section struct {
-	Heading        string       `json:"heading"`
-	Subsections    []Subsection `json:"subsections,omitempty"`
-	Content        []string     `json:"content,omitempty"`
-	ContactInfo    *string      `json:"contact_info,omitempty"`
-	SubmissionLink *string      `json:"submission_link,omitempty"`
-	StudyTypes     []StudyType  `json:"study_types,omitempty"`
-	RequiredDocs   []string     `json:"required_documents,omitempty"`
-	Guidelines     *Guidelines  `json:"guidelines,omitempty"`
-	ListItems      []string     `json:"list_items,omitempty"`
+	Heading        string        `json:"heading"`
+	SectionType    string        `json:"section_type,omitempty"`
+	Subsections    []Subsection  `json:"subsections,omitempty"`
+	Content        []string      `json:"content,omitempty"`
+	ContactInfo    *string       `json:"contact_info,omitempty"`
+	SubmissionLink *string       `json:"submission_link,omitempty"`
+	StudyTypes     []StudyType   `json:"study_types,omitempty"`
+	RequiredDocs   []RequiredDoc `json:"required_documents,omitempty"`
+	Guidelines     *Guidelines   `json:"guidelines,omitempty"`
+	ListItems      []string      `json:"list_items,omitempty"`
+	Description    *string       `json:"description,omitempty"`
 }
 
 type Subsection struct {
@@ -70,6 +72,11 @@ type Subsection struct {
 type StudyType struct {
 	Type        string `json:"type"`
 	Description string `json:"description"`
+}
+
+type RequiredDoc struct {
+	Name       string `json:"name"`
+	IsRequired bool   `json:"is_required"`
 }
 
 type Guidelines struct {
@@ -113,6 +120,14 @@ func extractText(r io.Reader) ([]Section, error) {
 				currentSection = &Section{Heading: heading}
 				currentSubheading = ""
 				fmt.Printf("Processing heading: %s\n", heading)
+				// Add section type based on heading
+				if strings.Contains(strings.ToLower(heading), "guideline") {
+					currentSection.SectionType = "guideline"
+				} else if strings.Contains(strings.ToLower(heading), "study type") {
+					currentSection.SectionType = "study_type"
+				} else if strings.Contains(strings.ToLower(heading), "contact") {
+					currentSection.SectionType = "contact_information"
+				}
 			}
 		}
 
@@ -158,25 +173,32 @@ func extractText(r io.Reader) ([]Section, error) {
 
 		// Extract text from list items
 		if n.Type == html.ElementNode && (n.Data == "ul" || n.Data == "ol") {
+			var categorizedListItems = make(map[string][]string)
 			for c := n.FirstChild; c != nil; c = c.NextSibling {
 				if c.Type == html.ElementNode && c.Data == "li" {
 					var buf strings.Builder
 					getTextContent(c, &buf)
 					listItem := strings.TrimSpace(buf.String())
 					if listItem != "" && currentSection != nil {
-						if currentSubheading != "" {
-							for i := range currentSection.Subsections {
-								if currentSection.Subsections[i].Subheading == currentSubheading {
-									currentSection.Subsections[i].ListItems = append(currentSection.Subsections[i].ListItems, listItem)
-									break
-								}
-							}
-						} else if strings.Contains(strings.ToLower(listItem), "required document") {
-							currentSection.RequiredDocs = append(currentSection.RequiredDocs, listItem)
+						if strings.Contains(strings.ToLower(listItem), "required document") {
+							currentSection.RequiredDocs = append(currentSection.RequiredDocs, RequiredDoc{Name: listItem, IsRequired: true})
+						} else if strings.Contains(strings.ToLower(listItem), "study type") {
+							categorizedListItems["study_types"] = append(categorizedListItems["study_types"], listItem)
 						} else {
-							currentSection.ListItems = append(currentSection.ListItems, listItem)
+							categorizedListItems["general"] = append(categorizedListItems["general"], listItem)
 						}
 					}
+				}
+			}
+			// Assign categorized list items to current section
+			for category, items := range categorizedListItems {
+				switch category {
+				case "study_types":
+					for _, item := range items {
+						currentSection.StudyTypes = append(currentSection.StudyTypes, StudyType{Type: item, Description: ""})
+					}
+				case "general":
+					currentSection.ListItems = append(currentSection.ListItems, items...)
 				}
 			}
 		}
