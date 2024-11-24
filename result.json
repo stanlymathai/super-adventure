@@ -4,30 +4,26 @@
     "subsections": [
       {
         "subheading": "Contact Information",
-        "content": [
-          "How Do I?"
-        ]
+        "content": ["How Do I?"]
       }
     ],
-    "content": [
-      "Open All Topics | Close All Topics"
-    ],
+    "content": ["Open All Topics | Close All Topics"],
     "contact_info": "Contact Monica Mungle  for help if edits are needed to the top section.",
     "submission_link": "",
     "study_types": [
       {
-        "type": "Determine My Study Type\n    \n        Randomized Clinical Trial\n        Parallel-Design Double-blind Trial\n        Crossover Trial\n        Equivalence and Noninferiority Trial\n        Cluster Trial\n        Nonrandomized Clinical Trial\n        Meta-analysis\n        Cohort Study\n        Case-Control Study\n        Cross-sectional Study\n        Case Series\n        Economic Evaluation\n        Decision Analytical Model\n        Comparative Effectiveness Research\n        Genetic Association Study\n        Diagnostic/Prognostic Study\n        Quality Improvement Study\n        Survey Study\n        Qualitative Study",
+        "type": "Determine My Study Type              Randomized Clinical Trial         Parallel-Design Double-blind Trial         Crossover Trial         Equivalence and Noninferiority Trial         Cluster Trial         Nonrandomized Clinical Trial         Meta-analysis         Cohort Study         Case-Control Study         Cross-sectional Study         Case Series         Economic Evaluation         Decision Analytical Model         Comparative Effectiveness Research         Genetic Association Study         Diagnostic/Prognostic Study         Quality Improvement Study         Survey Study         Qualitative Study",
         "description": ""
       }
     ],
     "list_items": [
       "How Do I?",
-      "Format My Manuscript\n    \n        Manuscript Preparation and Submission Requirements\n        \n            Manuscript Submission\n            Copies of Previous Editorial and Reviewer Comments\n            Cover Letter\n            Manuscript Style\n            Manuscript Components\n            Recommended File Sizes\n            Manuscript File Formats\n            Title Page\n            Title\n            Key Points\n            Abstracts\n            Abbreviations\n            Units of Measure\n            Names of Drugs, Devices, and Other Products\n            Gene Names, Symbols, and Accession Numbers\n            Reproduced and Re-created Material\n            References\n        \n        \n        Tables\n        Figures\n        Online-Only Supplements and Multimedia",
+      "Format My Manuscript              Manuscript Preparation and Submission Requirements                      Manuscript Submission             Copies of Previous Editorial and Reviewer Comments             Cover Letter             Manuscript Style             Manuscript Components             Recommended File Sizes             Manuscript File Formats             Title Page             Title             Key Points             Abstracts             Abbreviations             Units of Measure             Names of Drugs, Devices, and Other Products             Gene Names, Symbols, and Accession Numbers             Reproduced and Re-created Material             References                           Tables         Figures         Online-Only Supplements and Multimedia",
       "What to Expect",
-      "After Submission\n    \n        Editorial and Peer Review\n        \n        \n        Appeals\n        \n        Open Access",
-      "After Revision/Acceptance\n    \n        Authorship Form and Publishing Agreement\n        Editing\n        Embargo\n        Publication",
-      "After Publication\n    \n        Postpublication Online Commenting\n        Reprints/e-Prints\n        Corrections\n        Author CME",
-      "About Previous Release of Information, Embargo, and Access\n    \n        Previous Publication, Related Manuscripts and Reports, and Preprints\n        Previous or Planned Meeting Presentation or Release of Information\n        Embargo Policy\n        \n        Open Access\n        Research Article Public Access, Depositing in Repositories, and Discoverability",
+      "After Submission              Editorial and Peer Review                           Appeals                  Open Access",
+      "After Revision/Acceptance              Authorship Form and Publishing Agreement         Editing         Embargo         Publication",
+      "After Publication              Postpublication Online Commenting         Reprints/e-Prints         Corrections         Author CME",
+      "About Previous Release of Information, Embargo, and Access              Previous Publication, Related Manuscripts and Reports, and Preprints         Previous or Planned Meeting Presentation or Release of Information         Embargo Policy                  Open Access         Research Article Public Access, Depositing in Repositories, and Discoverability",
       "Original Investigation",
       "Brief Report",
       "Research Letter",
@@ -61,7 +57,7 @@
       "Quality Improvement Study",
       "Survey Study",
       "Qualitative Study",
-      "Manuscript Preparation and Submission Requirements\n        \n            Manuscript Submission\n            Copies of Previous Editorial and Reviewer Comments\n            Cover Letter\n            Manuscript Style\n            Manuscript Components\n            Recommended File Sizes\n            Manuscript File Formats\n            Title Page\n            Title\n            Key Points\n            Abstracts\n            Abbreviations\n            Units of Measure\n            Names of Drugs, Devices, and Other Products\n            Gene Names, Symbols, and Accession Numbers\n            Reproduced and Re-created Material\n            References",
+      "Manuscript Preparation and Submission Requirements                      Manuscript Submission             Copies of Previous Editorial and Reviewer Comments             Cover Letter             Manuscript Style             Manuscript Components             Recommended File Sizes             Manuscript File Formats             Title Page             Title             Key Points             Abstracts             Abbreviations             Units of Measure             Names of Drugs, Devices, and Other Products             Gene Names, Symbols, and Accession Numbers             Reproduced and Re-created Material             References",
       "Tables",
       "Figures",
       "Online-Only Supplements and Multimedia",
@@ -99,12 +95,12 @@
       "Open Access",
       "Research Article Public Access, Depositing in Repositories, and Discoverability",
       "Editorial Policies for Authors",
-      "Author Responsibilities\n    \n        Authorship and Disclosures\n        Authorship Criteria and Contributions\n        Role of the Corresponding Author\n        Changes in Authorship\n        Name Change Policy\n        Group Authorship\n        Conflicts of Interest and Financial Disclosures\n        Funding/Support and Role of Funder/Sponsor\n        Data Access, Responsibility, and Analysis\n        Data Sharing Statement\n        Acknowledgment Section\n        Previous Publication, Related Manuscripts and Reports, and Preprints\n        Copies of Previous Editorial and Reviewer Comments",
-      "Requirements for Reporting\n    \n        EQUATOR Reporting Guidelines\n        Use of Causal Language\n        Timeliness of Data\n        Statistical Methods and Data Presentation\n        Reporting Demographic Information for Study Participants\n        Ethical Approval of Studies and Informed Consent\n        Patient Identification\n        Use of AI in Publication and Research\n        Personal Communications and Unpublished Data\n        Manuscripts That Pose Security Risks",
+      "Author Responsibilities              Authorship and Disclosures         Authorship Criteria and Contributions         Role of the Corresponding Author         Changes in Authorship         Name Change Policy         Group Authorship         Conflicts of Interest and Financial Disclosures         Funding/Support and Role of Funder/Sponsor         Data Access, Responsibility, and Analysis         Data Sharing Statement         Acknowledgment Section         Previous Publication, Related Manuscripts and Reports, and Preprints         Copies of Previous Editorial and Reviewer Comments",
+      "Requirements for Reporting              EQUATOR Reporting Guidelines         Use of Causal Language         Timeliness of Data         Statistical Methods and Data Presentation         Reporting Demographic Information for Study Participants         Ethical Approval of Studies and Informed Consent         Patient Identification         Use of AI in Publication and Research         Personal Communications and Unpublished Data         Manuscripts That Pose Security Risks",
       "Journal Policies, Forms, Resources",
-      "Journal Policies\n    \n        Decisions and Management of Editorial Conflicts of Interest\n        Embargo Policy\n        Publishing Agreement\n        \n        Open Access\n        Research Article Public Access, Depositing in Repositories, and Discoverability\n        Unauthorized Use",
-      "Forms\n    \n        Patient Permission Form\n        \n        Permission to Republish Material",
-      "Additional Resources\n    \n        AMA Manual of Style\n        ICMJE\n        EQUATOR Network",
+      "Journal Policies              Decisions and Management of Editorial Conflicts of Interest         Embargo Policy         Publishing Agreement                  Open Access         Research Article Public Access, Depositing in Repositories, and Discoverability         Unauthorized Use",
+      "Forms              Patient Permission Form                  Permission to Republish Material",
+      "Additional Resources              AMA Manual of Style         ICMJE         EQUATOR Network",
       "Authorship and Disclosures",
       "Authorship Criteria and Contributions",
       "Role of the Corresponding Author",
@@ -146,42 +142,40 @@
     "subsections": [
       {
         "subheading": "Categories of Articles",
-        "content": [
-          "Categories of Articles"
-        ]
+        "content": ["Categories of Articles"]
       },
       {
         "subheading": "Research",
         "content": [
-          "Original Investigation\nfull info",
-          "Clinical trial\nMeta-analysis\nIntervention study\nCohort study\nCase-control study\nEpidemiologic assessment\nSurvey with high response rate\nCost-effectiveness analysis\nDecision analysis\nStudy of screening and diagnostic tests\nOther observational study",
-          "Brief Report\nfull info",
+          "Original Investigation full info",
+          "Clinical trial Meta-analysis Intervention study Cohort study Case-control study Epidemiologic assessment Survey with high response rate Cost-effectiveness analysis Decision analysis Study of screening and diagnostic tests Other observational study",
+          "Brief Report full info",
           "Short reports of original studies or evaluations or unique, first-time reports of clinical case series.",
           "It is very rare for this journal to publish case reports.",
-          "Research Letter\nfull info",
+          "Research Letter full info",
           "Back to top"
         ]
       },
       {
         "subheading": "Clinical Review and Education",
         "content": [
-          "Systematic Review (without meta-analysis)\nfull info",
+          "Systematic Review (without meta-analysis) full info",
           "Critical assessments of the literature and data sources pertaining to clinical topics, emphasizing factors such as cause, diagnosis, prognosis, therapy, or prevention.",
           "Systematic Reviews without meta-analysis are published as Reviews; those with meta-analysis are published as Original Investigations (see Meta-analysis).",
-          "Narrative Review\nfull info",
+          "Narrative Review full info",
           "Up-to-date review for clinicians on a topic of general common interest from the perspective of internationally recognized experts in these disciplines.",
           "The focus should be an update on current understanding of the physiology of the disease or condition, diagnostic consideration, and treatment.",
           "These reviews should address a specific question or issue that is relevant for clinical practice.",
-          "Special Communication\nfull info",
+          "Special Communication full info",
           "These manuscripts describe an important issue in clinical medicine, public health, health policy, or medical research in a scholarly, thorough, well-referenced, systematic, and evidence-based manner.",
-          "Clinical Challenge\nfull info",
+          "Clinical Challenge full info",
           "Presents an actual patient case with a specific disease or condition with an accompanying clinical image.",
-          "Diagnostic Test Interpretation\nfull info",
+          "Diagnostic Test Interpretation full info",
           "This article requires a presubmission inquiry.",
           "Presentation of the results of a diagnostic test from a single patient with exploration of the clinical application of the test result; intended to help clinicians understand the underlying rationale in ordering tests, interpreting test results, and acting on the diagnostic test findings.",
-          "Clinical Evidence Synopsis\nfull info",
+          "Clinical Evidence Synopsis full info",
           "Synopsis is intended to help clinicians apply evidence to practice by summarizing new evidence from recently published data-driven reviews and reports.",
-          "Cardiovascular Images\nfull info",
+          "Cardiovascular Images full info",
           "Novel and clinically relevant images of unusual or striking examples of clinical entities, electrocardiographic/radiological studies, or therapeutic procedures with brief explanatory text.",
           "Back to top"
         ]
@@ -189,14 +183,14 @@
       {
         "subheading": "Opinion",
         "content": [
-          "Viewpoint\nfull info",
+          "Viewpoint full info",
           "May address virtually any important topic in medicine, public health, research, discovery, prevention, ethics, health policy, or health law and generally are not linked to a specific article."
         ]
       },
       {
         "subheading": "Humanities",
         "content": [
-          "From the Heart\nfull info",
+          "From the Heart full info",
           "Personal vignettes (eg, exploring the dynamics of the patient-physician relationship) taken from wide-ranging experiences in medicine; occasional pieces express views and opinions on the myriad issues that affect the profession.",
           "Back to top"
         ]
@@ -204,16 +198,14 @@
       {
         "subheading": "Correspondence",
         "content": [
-          "Letter to the Editor\nfull info",
-          "Letter in Reply\nfull info",
+          "Letter to the Editor full info",
+          "Letter in Reply full info",
           "Replies by authors of original articles to letters from readers."
         ]
       },
       {
         "subheading": "Study Types",
-        "content": [
-          "How Do I?"
-        ]
+        "content": ["How Do I?"]
       }
     ],
     "submission_link": "",
@@ -343,9 +335,7 @@
       },
       {
         "subheading": "Research Letter",
-        "content": [
-          "Back to top"
-        ]
+        "content": ["Back to top"]
       },
       {
         "subheading": "Clinical Review and Education",
@@ -353,9 +343,7 @@
       },
       {
         "subheading": "Reviews",
-        "content": [
-          "The journal will consider 2 types of review articles:"
-        ]
+        "content": ["The journal will consider 2 types of review articles:"]
       },
       {
         "subheading": "Systematic Reviews",
@@ -590,9 +578,7 @@
       },
       {
         "subheading": "Protocols:",
-        "content": [
-          "Back to top"
-        ]
+        "content": ["Back to top"]
       },
       {
         "subheading": "CONSORT Flow Diagram and Checklist:",
@@ -627,43 +613,43 @@
       }
     ],
     "content": [
-      "Randomized Clinical Trial\nfull info",
+      "Randomized Clinical Trial full info",
       "A trial that prospectively assigns participants to intervention or comparison groups to study the cause-and-effect relationship between an intervention and a health outcome. Interventions include but are not limited to drugs, surgical procedures, devices, behavioral treatments, educational programs, dietary interventions, quality improvement interventions, process-of-care changes, and the like.",
-      "Parallel-Design Double-blind Trial\nfull info",
+      "Parallel-Design Double-blind Trial full info",
       "A randomized trial that prospectively assigns participants to 2 or more groups to receive different interventions. Participants and those administering the interventions are unaware of which intervention individual participants are receiving.",
-      "Crossover Trial\nfull info",
+      "Crossover Trial full info",
       "A trial in which participants receive more than 1 of the treatments under investigation, usually in a randomly determined sequence, and with a prespecified amount of time (washout period) between sequential treatments.",
-      "Equivalence and Noninferiority Trial\nfull info",
+      "Equivalence and Noninferiority Trial full info",
       "A trial designed to assess whether the treatment or intervention under study (eg, a new intervention) is no worse than an existing alternative (eg, an active control). In these trials, authors must prespecify a margin of noninferiority that is consistent with all relevant studies and within which the new intervention can be assumed to be no worse than the active control.",
-      "Cluster Trial\nfull info",
+      "Cluster Trial full info",
       "A trial that includes random assignment of groups rather than individuals to intervention and control groups.",
-      "Nonrandomized Clinical Trial\nfull info",
+      "Nonrandomized Clinical Trial full info",
       "A trial that prospectively assigns groups or populations to study the efficacy or effectiveness of an intervention but in which the assignment to the intervention occurs through self-selection or administrator selection rather than through randomization. Control groups can be historic, concurrent, or both. This design is sometimes called a quasi-experimental design.",
-      "Meta-analysis\nfull info",
+      "Meta-analysis full info",
       "A systematic review that includes a statistical technique for quantitatively combining the results of multiple studies that measure the same outcome into a single pooled or summary estimate.",
-      "Cohort Study\nfull info",
+      "Cohort Study full info",
       "An observational study that follows a group (cohort) of individuals who are initially free of the outcome of interest. Individuals in the cohort may share some underlying characteristic, such as age, sex, diagnosis, exposure to a risk factor, or treatment.",
-      "Case-Control Study\nfull info",
+      "Case-Control Study full info",
       "An observational study designed to determine the association between an exposure and outcome in which study participants are selected by outcome. Those with the outcome (cases) are compared with those without the outcome (controls) with respect to an exposure or event. Cases and controls may be matched according to specific characteristics (eg, age, sex, or duration of disease).",
-      "Cross-sectional Study\nfull info",
+      "Cross-sectional Study full info",
       "An observational study of a defined population at a single point in time or during a specific interval, in which exposure and outcome are ascertained simultaneously.",
-      "Case Series\nfull info",
+      "Case Series full info",
       "An observational study that describes a selected group of participants with similar exposure or treatment and without a control group. A case series may also involve observation of larger units such as groups of hospitals or municipalities, as well as smaller units such as laboratory samples.",
-      "Economic Evaluation\nfull info",
+      "Economic Evaluation full info",
       "A study using formal, quantitative methods to compare 2 or more treatments, programs, or strategies with respect to their resource use and expected outcomes. This includes cost-effectiveness, cost-benefit, and cost-minimization analyses.",
-      "Decision Analytical Model\nfull info",
+      "Decision Analytical Model full info",
       "A mathematical modeling study that compares consequences of decision options by synthesizing information from multiple sources and applying mathematical simulation techniques, usually with specific software. Reporting should address the relevant non-cost aspects of the CHEERS guideline.",
-      "Comparative Effectiveness Research\nfull info",
+      "Comparative Effectiveness Research full info",
       "A study that compares different interventions or strategies to prevent, diagnose, treat, and monitor health conditions to determine which work best for which patients, under what circumstances, and are associated with the greatest benefits and harms.",
-      "Genetic Association Study\nfull info",
+      "Genetic Association Study full info",
       "A study that attempts to identify and characterize genomic variants that may be associated with susceptibility to multifactorial disease.",
-      "Diagnostic/Prognostic Study\nfull info",
+      "Diagnostic/Prognostic Study full info",
       "A prospective study designed to develop, validate, or update the diagnostic or prognostic accuracy of a test or model.",
-      "Quality Improvement Study\nfull info",
+      "Quality Improvement Study full info",
       "A study that uses data to define, measure, and evaluate a health care practice or service to maintain or improve the appropriateness, quality, safety, or value of that practice or service.",
-      "Survey Study\nfull info",
+      "Survey Study full info",
       "A survey study includes a representative sample of individuals who are asked to describe their opinions, attitudes, or behaviors. Survey studies should have sufficient response rates (generally ≥60%) and appropriate characterization of nonresponders to ensure that nonresponse bias does not threaten the validity of the findings.",
-      "Qualitative Study\nfull info",
+      "Qualitative Study full info",
       "A study based on observation and interview with individuals that uses inductive reasoning and a theoretical sampling model and that focuses on social and interpreted, rather than quantifiable, phenomena and aims to discover, interpret, and describe rather than to test and evaluate. This includes mixed-methods studies that combine quantitative and qualitative designs in a sequential or concurrent manner.",
       "Back to top"
     ],
@@ -865,27 +851,19 @@
     "subsections": [
       {
         "subheading": "Manuscript Preparation and Submission Requirements",
-        "content": [
-          "Manuscript Preparation and Submission Requirements"
-        ]
+        "content": ["Manuscript Preparation and Submission Requirements"]
       },
       {
         "subheading": "Manuscript Submission",
-        "content": [
-          "Back to top"
-        ]
+        "content": ["Back to top"]
       },
       {
         "subheading": "Copies of Previous Editorial and Reviewer Comments",
-        "content": [
-          "Back to top"
-        ]
+        "content": ["Back to top"]
       },
       {
         "subheading": "Cover Letter",
-        "content": [
-          "Back to top"
-        ]
+        "content": ["Back to top"]
       },
       {
         "subheading": "Manuscript Style",
@@ -896,9 +874,7 @@
       },
       {
         "subheading": "Manuscript Components",
-        "content": [
-          "Back to top"
-        ]
+        "content": ["Back to top"]
       },
       {
         "subheading": "Recommended File Sizes",
@@ -916,15 +892,11 @@
       },
       {
         "subheading": "Title Page",
-        "content": [
-          "Back to top"
-        ]
+        "content": ["Back to top"]
       },
       {
         "subheading": "Title",
-        "content": [
-          "Back to top"
-        ]
+        "content": ["Back to top"]
       },
       {
         "subheading": "Key Points",
@@ -1008,7 +980,7 @@
         "subheading": "Ratings of the quality of the evidence",
         "content": [
           "Tables summarizing evidence should include ratings of the quality of the evidence. Use the rating scheme listed below with ratings of 1-5 for Reviews that include individual studies (modified from the Oxford Centre for Evidence-based Medicine for ratings of individual studies).",
-          "There are several other preferred systems for rating the quality of evidence in Review articles. For Reviews that synthesize findings from numerous studies into a single summary recommendation, use the rating scale shown above or the Oxford Centre for Evidence-based Medicine's Levels of Evidence and Grades of Recommendation or the recommendations in\nthe American College of Cardiology Foundation/American Heart Association Task Force on Practice Guidelines. For reviews that include diagnostic studies, use The Rational Clinical Examination Levels of Evidence table.",
+          "There are several other preferred systems for rating the quality of evidence in Review articles. For Reviews that synthesize findings from numerous studies into a single summary recommendation, use the rating scale shown above or the Oxford Centre for Evidence-based Medicine's Levels of Evidence and Grades of Recommendation or the recommendations in the American College of Cardiology Foundation/American Heart Association Task Force on Practice Guidelines. For reviews that include diagnostic studies, use The Rational Clinical Examination Levels of Evidence table.",
           "Follow additional instructions for preparation and submission of Tables.",
           "Back to top"
         ]
@@ -1077,10 +1049,7 @@
       },
       {
         "subheading": "Tables",
-        "content": [
-          "Tables",
-          "Back to top"
-        ]
+        "content": ["Tables", "Back to top"]
       },
       {
         "subheading": "Table Creation",
@@ -1307,15 +1276,11 @@
       },
       {
         "subheading": "Guidelines for Optimal Video Quality",
-        "content": [
-          "Back to top"
-        ]
+        "content": ["Back to top"]
       },
       {
         "subheading": "Additional Considerations for Filming Surgical Procedures",
-        "content": [
-          "Back to top"
-        ]
+        "content": ["Back to top"]
       },
       {
         "subheading": "Audio",
@@ -1397,10 +1362,7 @@
     "subsections": [
       {
         "subheading": "Editorial and Peer Review",
-        "content": [
-          "Editorial and Peer Review",
-          "Back to top"
-        ]
+        "content": ["Editorial and Peer Review", "Back to top"]
       },
       {
         "subheading": "Appeals",
@@ -1533,14 +1495,14 @@
     ],
     "submission_link": "",
     "list_items": [
-      "Free Public Access Option and Copyright Transfer\n    All research articles, regardless of funding, that are accepted for publication will be made free access online 12 months after publication on the journal website and will be deposited on your behalf in PubMed Central. If you choose this option, there are no fees and you will select A, B, or C for copyright transfer in the Publishing Agreement. All authors will be required to complete the Publishing Agreement that will indicate this Public Access Option before any manuscript can be accepted for publication. See also Research Article Public Access, Depositing in Repositories, and Discoverability.\n    \n        \n        Copyright Transfer. In consideration of the action of the American Medical Association (AMA) in reviewing and editing this submission (manuscript, tables, figures, video, audio, and other supplemental files for publication), I hereby transfer, assign, or otherwise convey all copyright ownership, including any and all rights incidental thereto, exclusively to the AMA, in the event that such work is published by the AMA.\n        \n        \n        Federal Employment. I was an employee of the US federal government or that of another nation when this work was conducted and prepared for publication; therefore, it is not protected by the Copyright Act, and copyright ownership cannot be transferred.\n        \n        \n        Work for Hire. I am employed by an institution that considers this submission a \"work made for hire\" and that requires an authorized representative of the institution to assign copyright on my behalf.",
-      "Author-Pay Open Access Options\n    All eligible research articles that are accepted for publication will be made free access on the journal website following payment of article  processing charges (APC) of $5000 and grant of a publication license to the journal and will be deposited on your behalf in PubMed  Central for  free access  following deposit. There are 2 Open Access Options available below, depending on the source of APC funding. All authors will be  required to confirm the Publishing Agreement that indicates the Open Access Option before any manuscript can be accepted for publication.\n    \n        \n        CC-BY License\n        \n            \n            Eligibility: Available only for authors of manuscripts reporting  research funded by a not-for-profit foundation or agency or unfunded research. Note: If your open access funding source is  commercial, only a CC-BY-NC-ND license is available.\n            \n            \n            Author requirements: Payment of $5000 and transfer of a publication  license to the journal.\n            \n            \n            License rights: Immediate open access on journal website on the day of  publication, retention of  copyright, and a CC-BY license that permits others to distribute, remix, tweak,  and build on the work, even commercially, without permission, provided that  credit is given to the original authors and journal.\n            \n        \n        \n        \n        CC-BY-NC-ND License\n        \n            \n            Eligibility: Available for authors of manuscripts reporting research funded by a commercial funding source.\n            \n            \n            Author requirements: Payment of $5000 and grant of a publication license to the  journal.\n            \n            \n            License rights: Immediate open access on journal website on the day of publication and a CC-BY-NC-ND license  that permits others to distribute the work without permission, provided that credit is  given to the original authors and journal and that the article is not altered or used commercially.",
-      "Open Access Waivers and Discounts\n    Waivers and discounts on open access article processing charges are available for eligible authors from Hinari Core Offer countries with limited resources.",
+      "Free Public Access Option and Copyright Transfer     All research articles, regardless of funding, that are accepted for publication will be made free access online 12 months after publication on the journal website and will be deposited on your behalf in PubMed Central. If you choose this option, there are no fees and you will select A, B, or C for copyright transfer in the Publishing Agreement. All authors will be required to complete the Publishing Agreement that will indicate this Public Access Option before any manuscript can be accepted for publication. See also Research Article Public Access, Depositing in Repositories, and Discoverability.                       Copyright Transfer. In consideration of the action of the American Medical Association (AMA) in reviewing and editing this submission (manuscript, tables, figures, video, audio, and other supplemental files for publication), I hereby transfer, assign, or otherwise convey all copyright ownership, including any and all rights incidental thereto, exclusively to the AMA, in the event that such work is published by the AMA.                           Federal Employment. I was an employee of the US federal government or that of another nation when this work was conducted and prepared for publication; therefore, it is not protected by the Copyright Act, and copyright ownership cannot be transferred.                           Work for Hire. I am employed by an institution that considers this submission a \"work made for hire\" and that requires an authorized representative of the institution to assign copyright on my behalf.",
+      "Author-Pay Open Access Options     All eligible research articles that are accepted for publication will be made free access on the journal website following payment of article  processing charges (APC) of $5000 and grant of a publication license to the journal and will be deposited on your behalf in PubMed  Central for  free access  following deposit. There are 2 Open Access Options available below, depending on the source of APC funding. All authors will be  required to confirm the Publishing Agreement that indicates the Open Access Option before any manuscript can be accepted for publication.                       CC-BY License                                   Eligibility: Available only for authors of manuscripts reporting  research funded by a not-for-profit foundation or agency or unfunded research. Note: If your open access funding source is  commercial, only a CC-BY-NC-ND license is available.                                       Author requirements: Payment of $5000 and transfer of a publication  license to the journal.                                       License rights: Immediate open access on journal website on the day of  publication, retention of  copyright, and a CC-BY license that permits others to distribute, remix, tweak,  and build on the work, even commercially, without permission, provided that  credit is given to the original authors and journal.                                                 CC-BY-NC-ND License                                   Eligibility: Available for authors of manuscripts reporting research funded by a commercial funding source.                                       Author requirements: Payment of $5000 and grant of a publication license to the  journal.                                       License rights: Immediate open access on journal website on the day of publication and a CC-BY-NC-ND license  that permits others to distribute the work without permission, provided that credit is  given to the original authors and journal and that the article is not altered or used commercially.",
+      "Open Access Waivers and Discounts     Waivers and discounts on open access article processing charges are available for eligible authors from Hinari Core Offer countries with limited resources.",
       "Copyright Transfer. In consideration of the action of the American Medical Association (AMA) in reviewing and editing this submission (manuscript, tables, figures, video, audio, and other supplemental files for publication), I hereby transfer, assign, or otherwise convey all copyright ownership, including any and all rights incidental thereto, exclusively to the AMA, in the event that such work is published by the AMA.",
       "Federal Employment. I was an employee of the US federal government or that of another nation when this work was conducted and prepared for publication; therefore, it is not protected by the Copyright Act, and copyright ownership cannot be transferred.",
       "Work for Hire. I am employed by an institution that considers this submission a \"work made for hire\" and that requires an authorized representative of the institution to assign copyright on my behalf.",
-      "CC-BY License\n        \n            \n            Eligibility: Available only for authors of manuscripts reporting  research funded by a not-for-profit foundation or agency or unfunded research. Note: If your open access funding source is  commercial, only a CC-BY-NC-ND license is available.\n            \n            \n            Author requirements: Payment of $5000 and transfer of a publication  license to the journal.\n            \n            \n            License rights: Immediate open access on journal website on the day of  publication, retention of  copyright, and a CC-BY license that permits others to distribute, remix, tweak,  and build on the work, even commercially, without permission, provided that  credit is given to the original authors and journal.",
-      "CC-BY-NC-ND License\n        \n            \n            Eligibility: Available for authors of manuscripts reporting research funded by a commercial funding source.\n            \n            \n            Author requirements: Payment of $5000 and grant of a publication license to the  journal.\n            \n            \n            License rights: Immediate open access on journal website on the day of publication and a CC-BY-NC-ND license  that permits others to distribute the work without permission, provided that credit is  given to the original authors and journal and that the article is not altered or used commercially.",
+      "CC-BY License                                   Eligibility: Available only for authors of manuscripts reporting  research funded by a not-for-profit foundation or agency or unfunded research. Note: If your open access funding source is  commercial, only a CC-BY-NC-ND license is available.                                       Author requirements: Payment of $5000 and transfer of a publication  license to the journal.                                       License rights: Immediate open access on journal website on the day of  publication, retention of  copyright, and a CC-BY license that permits others to distribute, remix, tweak,  and build on the work, even commercially, without permission, provided that  credit is given to the original authors and journal.",
+      "CC-BY-NC-ND License                                   Eligibility: Available for authors of manuscripts reporting research funded by a commercial funding source.                                       Author requirements: Payment of $5000 and grant of a publication license to the  journal.                                       License rights: Immediate open access on journal website on the day of publication and a CC-BY-NC-ND license  that permits others to distribute the work without permission, provided that credit is  given to the original authors and journal and that the article is not altered or used commercially.",
       "Eligibility: Available only for authors of manuscripts reporting  research funded by a not-for-profit foundation or agency or unfunded research. Note: If your open access funding source is  commercial, only a CC-BY-NC-ND license is available.",
       "Author requirements: Payment of $5000 and transfer of a publication  license to the journal.",
       "License rights: Immediate open access on journal website on the day of  publication, retention of  copyright, and a CC-BY license that permits others to distribute, remix, tweak,  and build on the work, even commercially, without permission, provided that  credit is given to the original authors and journal.",
@@ -1584,10 +1546,7 @@
       },
       {
         "subheading": "Changes in Authorship",
-        "content": [
-          "Changes in Authorship",
-          "Back to top"
-        ]
+        "content": ["Changes in Authorship", "Back to top"]
       },
       {
         "subheading": "Name Change Policy",
@@ -1628,10 +1587,7 @@
       },
       {
         "subheading": "Funding/Support and Role of Funder/Sponsor",
-        "content": [
-          "Funding/Support and Role of Funder/Sponsor",
-          "Back to top"
-        ]
+        "content": ["Funding/Support and Role of Funder/Sponsor", "Back to top"]
       },
       {
         "subheading": "Data Access, Responsibility, and Analysis",
@@ -1676,10 +1632,7 @@
     "subsections": [
       {
         "subheading": "EQUATOR Reporting Guidelines",
-        "content": [
-          "EQUATOR Reporting Guidelines",
-          "Back to top"
-        ]
+        "content": ["EQUATOR Reporting Guidelines", "Back to top"]
       },
       {
         "subheading": "Use of Causal Language",
@@ -1699,9 +1652,7 @@
       },
       {
         "subheading": "Statistical Methods and Data Presentation",
-        "content": [
-          "Statistical Methods and Data Presentation"
-        ]
+        "content": ["Statistical Methods and Data Presentation"]
       },
       {
         "subheading": "General Considerations",
@@ -1743,9 +1694,7 @@
       },
       {
         "subheading": "Primary Outcomes, Multiple Comparisons, and Post Hoc Comparisons",
-        "content": [
-          "Back to top"
-        ]
+        "content": ["Back to top"]
       },
       {
         "subheading": "Statistical Analysis Subsection",
@@ -1808,9 +1757,7 @@
       },
       {
         "subheading": "Patient Identification",
-        "content": [
-          "Patient Identification"
-        ]
+        "content": ["Patient Identification"]
       },
       {
         "subheading": "Patient Permission Form:",
@@ -1821,9 +1768,7 @@
       },
       {
         "subheading": "Use of AI in Publication and Research",
-        "content": [
-          "Use of AI in Publication and Research"
-        ]
+        "content": ["Use of AI in Publication and Research"]
       },
       {
         "subheading": "AI Used in Manuscript Preparation",
@@ -1910,10 +1855,7 @@
       },
       {
         "subheading": "Publishing Agreement",
-        "content": [
-          "Publishing Agreement",
-          "Back to top"
-        ]
+        "content": ["Publishing Agreement", "Back to top"]
       },
       {
         "subheading": "Unauthorized Use",
@@ -2010,9 +1952,7 @@
     "subsections": [
       {
         "subheading": "Targeted Advertising",
-        "content": [
-          "Targeted Advertising"
-        ]
+        "content": ["Targeted Advertising"]
       },
       {
         "subheading": "Strictly Necessary Cookies",

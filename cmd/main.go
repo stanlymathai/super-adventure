@@ -112,7 +112,7 @@ func extractText(r io.Reader) ([]Section, error) {
 		if n.Type == html.ElementNode && isHeading(n.Data) {
 			var buf strings.Builder
 			getTextContent(n, &buf)
-			heading := strings.TrimSpace(buf.String())
+			heading := strings.TrimSpace(strings.ReplaceAll(buf.String(), "\n", " "))
 			if heading != "" {
 				if currentSection != nil {
 					sections = append(sections, *currentSection)
@@ -135,7 +135,7 @@ func extractText(r io.Reader) ([]Section, error) {
 		if n.Type == html.ElementNode && isSubheading(n.Data) {
 			var buf strings.Builder
 			getTextContent(n, &buf)
-			subheading := strings.TrimSpace(buf.String())
+			subheading := strings.TrimSpace(strings.ReplaceAll(buf.String(), "\n", " "))
 			if subheading != "" && currentSection != nil {
 				currentSubheading = subheading
 				currentSection.Subsections = append(currentSection.Subsections, Subsection{Subheading: subheading})
@@ -147,7 +147,7 @@ func extractText(r io.Reader) ([]Section, error) {
 		if n.Type == html.ElementNode && isParagraph(n.Data) {
 			var buf strings.Builder
 			getTextContent(n, &buf)
-			text := strings.TrimSpace(buf.String())
+			text := strings.TrimSpace(strings.ReplaceAll(buf.String(), "\n", " "))
 			if text != "" && currentSection != nil {
 				if strings.Contains(strings.ToLower(text), "contact") {
 					currentSection.ContactInfo = &text
@@ -178,7 +178,7 @@ func extractText(r io.Reader) ([]Section, error) {
 				if c.Type == html.ElementNode && c.Data == "li" {
 					var buf strings.Builder
 					getTextContent(c, &buf)
-					listItem := strings.TrimSpace(buf.String())
+					listItem := strings.TrimSpace(strings.ReplaceAll(buf.String(), "\n", " "))
 					if listItem != "" && currentSection != nil {
 						if strings.Contains(strings.ToLower(listItem), "required document") {
 							currentSection.RequiredDocs = append(currentSection.RequiredDocs, RequiredDoc{Name: listItem, IsRequired: true})
@@ -248,7 +248,8 @@ func isParagraph(tag string) bool {
 
 func getTextContent(n *html.Node, buf *strings.Builder) {
 	if n.Type == html.TextNode {
-		buf.WriteString(n.Data)
+		cleanedText := strings.ReplaceAll(n.Data, "\n", " ")
+		buf.WriteString(cleanedText)
 	}
 	for c := n.FirstChild; c != nil; c = c.NextSibling {
 		getTextContent(c, buf)
