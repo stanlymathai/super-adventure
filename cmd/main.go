@@ -1,20 +1,26 @@
 package main
 
 import (
+	"bufio"
 	"fmt"
 	"os"
+	"strings"
 
 	"html-text-extraction/internal/orchestration"
 	"html-text-extraction/internal/utils"
 )
 
 func main() {
-	if len(os.Args) < 2 {
-		fmt.Println("Usage: go run main.go <input-html-file|url>")
+	// Ask for URL or file path from the user
+	reader := bufio.NewReader(os.Stdin)
+	fmt.Print("Enter URL or file path: ")
+	input, err := reader.ReadString('\n')
+	if err != nil {
+		fmt.Printf("Error reading input: %v\n", err)
 		return
 	}
+	input = strings.TrimSpace(input)
 
-	input := os.Args[1]
 	outputFile := "result.json"
 	tempFile := "downloaded.html"
 
