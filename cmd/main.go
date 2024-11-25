@@ -34,10 +34,17 @@ func main() {
 		input = tempFile
 	}
 
-	// Open the input file (either a downloaded HTML or a local file)
-	file, err := os.Open(input)
+	// Pre-process the HTML with GoQuery
+	cleanedHTML, err := utils.CleanAndBeautifyHTML(input)
 	if err != nil {
-		fmt.Printf("Error opening input file: %v\n", err)
+		fmt.Printf("Error cleaning HTML: %v\n", err)
+		return
+	}
+
+	// Open the cleaned HTML file
+	file, err := os.Open(cleanedHTML)
+	if err != nil {
+		fmt.Printf("Error opening cleaned HTML file: %v\n", err)
 		return
 	}
 	defer file.Close()

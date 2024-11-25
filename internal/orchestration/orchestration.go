@@ -2,17 +2,25 @@ package orchestration
 
 import (
 	"fmt"
-	"io"
-
 	"html-text-extraction/internal/extraction"
+	"html-text-extraction/internal/preprocessor"
 	"html-text-extraction/internal/processing"
 	"html-text-extraction/internal/utils"
+	"io"
 )
 
 func Orchestrate(reader io.Reader, outputFile string) {
-	// Step 1: Extract Raw Sections
+	// Step 1: Pre-Treat the HTML Content
+	fmt.Println("Starting HTML pre-treatment...")
+	cleanReader, err := preprocessor.CleanHTML(reader)
+	if err != nil {
+		fmt.Printf("Error during HTML pre-treatment: %v\n", err)
+		return
+	}
+
+	// Step 2: Extract Raw Sections
 	fmt.Println("Starting raw text extraction...")
-	rawSections, err := extraction.ExtractRawSections(reader)
+	rawSections, err := extraction.ExtractRawSections(cleanReader)
 	if err != nil {
 		fmt.Printf("Error extracting text: %v\n", err)
 		return
@@ -31,7 +39,7 @@ func Orchestrate(reader io.Reader, outputFile string) {
 		return
 	}
 
-	// Step 2: Transform to Intermediate Sections
+	// Step 3: Transform to Intermediate Sections
 	fmt.Println("Starting transformation to intermediate sections...")
 	intermediateSections := processing.TransformToIntermediateSections(rawSections)
 
@@ -41,7 +49,7 @@ func Orchestrate(reader io.Reader, outputFile string) {
 		fmt.Printf("intermediateSections transformation success. Total intermediate sections: %d\n", len(intermediateSections))
 	}
 
-	// Step 3: Post-Process Intermediate Sections to Create Structured Output
+	// Step 4: Post-Process Intermediate Sections to Create Structured Output
 	fmt.Println("Starting post-processing...")
 	structuredSections := processing.PostProcessIntermediateSections(intermediateSections)
 

@@ -3,9 +3,8 @@ package extraction
 import (
 	"fmt"
 	"io"
-	"strings"
 
-	"golang.org/x/net/html"
+	"github.com/PuerkitoBio/goquery"
 )
 
 type RawSection struct {
@@ -16,102 +15,60 @@ type RawSection struct {
 }
 
 func ExtractRawSections(r io.Reader) ([]RawSection, error) {
-	doc, err := html.Parse(r)
+	// Load HTML document into GoQuery
+	doc, err := goquery.NewDocumentFromReader(r)
 	if err != nil {
-		return nil, err
+		return nil, fmt.Errorf("Error loading HTML with goquery: %v", err)
 	}
 
-	// Find the first meaningful element to start extraction from
-	meaningfulRoot := findFirstMeaningfulElement(doc)
-	if meaningfulRoot == nil {
-		fmt.Println("Error: Could not find a meaningful root element.")
-		return nil, nil
-	}
+	// Clean up the document by removing non-content nodes
+	doc.Find("script, style, nav, footer, header, noscript").Remove()
 
-	fmt.Printf("Found meaningful root: <%s>\n", meaningfulRoot.Data)
-	fmt.Println("Starting traversal of meaningful HTML document...")
+	// Traverse the cleaned document to extract meaningful content
+	var sections []RawSection
+	doc.Find("body").Children().Each(func(index int, sel *goquery.Selection) {
+		section := traverseSelection(sel)
+		if section.Content != "" || len(section.Children) > 0 {
+			sections = append(sections, section)
+		}
+	})
 
-	root := traverseRaw(meaningfulRoot)
-
-	if len(root.Children) == 0 {
-		fmt.Println("Warning: No children extracted from the meaningful root element. Check HTML structure or tag filtering.")
-	} else {
-		fmt.Printf("Extracted %d top-level children.\n", len(root.Children))
-	}
-
-	return root.Children, nil
+	return sections, nil
 }
 
-func traverseRaw(n *html.Node) RawSection {
-	// Initialize section to hold the node's data
+// traverseSelection recursively traverses a GoQuery selection to extract content
+func traverseSelection(sel *goquery.Selection) RawSection {
+	tag := goquery.NodeName(sel)
+	if tag == "" {
+		return RawSection{}
+	}
+
 	section := RawSection{
-		Tag:        n.Data,
-		Attributes: extractAttributes(n),
+		Tag:        tag,
+		Attributes: extractAttributes(sel),
 	}
 
-	// Extract content if it's a text node
-	if n.Type == html.TextNode {
-		text := strings.TrimSpace(strings.ReplaceAll(n.Data, "\n", " "))
-		if text != "" {
-			section.Content = text
-			fmt.Printf("Extracted text: %s\n", text)
-		}
+	// Extract content if it's a text node or meaningful element
+	content := sel.Text()
+	if content != "" {
+		section.Content = content
 	}
 
-	// Traverse all relevant children nodes
-	if n.Type == html.ElementNode {
-		fmt.Printf("Processing element: <%s>\n", n.Data)
-		for c := n.FirstChild; c != nil; c = c.NextSibling {
-			if isNonContentNode(c) {
-				fmt.Printf("Skipping non-content node: <%s>\n", c.Data)
-				continue
-			}
-			childSection := traverseRaw(c)
-			if childSection.Tag != "" || childSection.Content != "" || len(childSection.Children) > 0 {
-				section.Children = append(section.Children, childSection)
-			}
+	// Recursively process child elements
+	sel.Children().Each(func(index int, childSel *goquery.Selection) {
+		childSection := traverseSelection(childSel)
+		if childSection.Content != "" || len(childSection.Children) > 0 {
+			section.Children = append(section.Children, childSection)
 		}
-	}
+	})
 
 	return section
 }
 
-// Helper function to find the first meaningful element, skipping any document-level wrappers
-func findFirstMeaningfulElement(n *html.Node) *html.Node {
-	for c := n.FirstChild; c != nil; c = c.NextSibling {
-		if c.Type == html.ElementNode {
-			return c
-		}
-	}
-	return nil
-}
-
-// Helper function to skip non-content nodes such as scripts, styles, and comments
-func isNonContentNode(n *html.Node) bool {
-	if n.Type == html.CommentNode || n.Type == html.DoctypeNode {
-		return true
-	}
-
-	if n.Type == html.ElementNode {
-		nonContentTags := map[string]bool{
-			"script":   true,
-			"style":    true,
-			"meta":     true,
-			"link":     true,
-			"noscript": true,
-		}
-		return nonContentTags[n.Data]
-	}
-
-	return false
-}
-
-func extractAttributes(n *html.Node) map[string]string {
-	if len(n.Attr) == 0 {
-		return nil
-	}
+// extractAttributes extracts attributes from a goquery selection
+func extractAttributes(sel *goquery.Selection) map[string]string {
 	attributes := make(map[string]string)
-	for _, attr := range n.Attr {
+	for _, attr := range sel.Nodes[0].Attr {
 		attributes[attr.Key] = attr.Val
 	}
 	return attributes
